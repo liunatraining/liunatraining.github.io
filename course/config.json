@@ -1,0 +1,75 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "__v": 0,
+  "_courseId": "596fa46988590d600a454a6c",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "_accessibility": {
+    "_isTextProcessorEnabled": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isDisabledOnTouchDevices": false,
+    "_isEnabled": false
+  },
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024
+  },
+  "_id": "596fa46988590d600a454a73",
+  "_trickle": {
+    "_completionAttribute": "_isInteractionComplete"
+  },
+  "_spoor": {
+    "_isEnabled": true,
+    "_tracking": {
+      "_requireCourseCompleted": true,
+      "_requireAssessmentPassed": false,
+      "_shouldSubmitScore": false,
+      "_shouldStoreResponses": false,
+      "_shouldRecordInteractions": true
+    },
+    "_reporting": {
+      "_onTrackingCriteriaMet": "completed",
+      "_onAssessmentFailure": "incomplete",
+      "_resetStatusOnLanguageChange": false
+    },
+    "_advancedSettings": {
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": false,
+      "_commitOnVisibilityChangeHidden": true
+    }
+  },
+  "build": {
+    "includes": [
+      "adapt-theme-community",
+      "adapt-contrib-boxMenu",
+      "adapt-contrib-bookmarking",
+      "adapt-contrib-tutor",
+      "adapt-contrib-assessment",
+      "adapt-contrib-trickle",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-spoor",
+      "adapt-quicknav",
+      "adapt-expose",
+      "adapt-stacklist",
+      "adapt-contrib-text",
+      "adapt-contrib-mcq",
+      "adapt-contrib-graphic",
+      "adapt-contrib-flipcard",
+      "adapt-contrib-hotgraphic",
+      "adapt-contrib-narrative",
+      "adapt-contrib-accordion"
+    ]
+  }
+}

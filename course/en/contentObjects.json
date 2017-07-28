@@ -1,0 +1,277 @@
+[
+  {
+    "_id": "596fa46988590d600a454a6d",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "Start",
+      "src": "http://smartvoiceacting.com/wp-content/uploads/2016/08/start-here.png"
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>This is the opening section to the course. It will introduce you to many of the topics relevant to harassment.</p>",
+    "displayTitle": "Opening Section",
+    "title": "Opening Section",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": false,
+      "_level": "page"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": true,
+      "_isContinuous": "local",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": true,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to submenu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Next >",
+          "_icon": ""
+        }
+      }
+    }
+  },
+  {
+    "_id": "5970cb6f87aa48a40dea67af",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>During this section, you will learn about what harassment is.</p>",
+    "displayTitle": "What is harassment?",
+    "title": "What is harassment?",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": true,
+      "_isContinuous": "local",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": true,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to submenu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Next >",
+          "_icon": ""
+        }
+      }
+    }
+  },
+  {
+    "_id": "597a398995e5c7e40d947ec5",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>This section aims to cover many of the risk factors as well as warning signs present within harassment.</p>",
+    "displayTitle": "Risk Factors, Warning Signs, & Prevention",
+    "title": "Risk Factors, Warning Signs, & Prevention",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": true,
+      "_isContinuous": "local",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": true,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to submenu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Next >",
+          "_icon": ""
+        }
+      }
+    }
+  },
+  {
+    "_id": "597a2f3e95e5c7e40d947e82",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>This section will cover many of the topics present within reporting and investigation of harassment.</p>",
+    "displayTitle": "Reporting & Investigation",
+    "title": "Reporting & Investigation",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": true,
+      "_isContinuous": "local",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": true,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to submenu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Next >",
+          "_icon": ""
+        }
+      }
+    }
+  },
+  {
+    "_id": "5978d56695e5c7e40d947e6b",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>This is the final assessment. This will test your knowledge about the course.</p>",
+    "displayTitle": "Assessment",
+    "title": "Assessment",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": false,
+      "_isContinuous": "false",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": false,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to submenu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": false,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Next >",
+          "_icon": ""
+        }
+      }
+    }
+  }
+]
