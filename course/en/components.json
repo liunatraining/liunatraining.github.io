@@ -1014,7 +1014,7 @@
     "displayTitle": "",
     "title": "Hot Graphic",
     "_isAvailable": true,
-    "_isOptional": false,
+    "_isOptional": true,
     "_classes": "",
     "_component": "hotgraphic",
     "_pageLevelProgress": {
