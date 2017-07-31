@@ -66,7 +66,7 @@
   },
   {
     "_id": "596faf3888590d600a454a78",
-    "_layout": "left",
+    "_layout": "right",
     "_type": "component",
     "_parentId": "596fae6d88590d600a454a76",
     "body": "",
@@ -101,7 +101,7 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "596fb74188590d600a454a86",
-    "body": "<p>After going through each section completely, you will be asked to take a review assessment to complete your training.</p><p>Press the continue button below to move on to your first section.</p><p>There is a practice question available to your right. Once you press &quot;submit&quot; you will be able to continue forward.</p>",
+    "body": "<p>After going through each section completely, you will be asked to take a review assessment to complete your training.</p><p>The first question provided is a practice question. Once you press &quot;submit&quot; you will be able to continue forward.</p>",
     "displayTitle": "Instructions",
     "title": "Instructions",
     "_isAvailable": true,
@@ -188,7 +188,7 @@
   },
   {
     "_id": "5970c08187aa48a40dea67ae",
-    "_layout": "right",
+    "_layout": "left",
     "_type": "component",
     "_parentId": "596fae6d88590d600a454a76",
     "body": "",
