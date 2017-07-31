@@ -1422,7 +1422,7 @@
       "_isEnabled": true
     },
     "_hoverText": "Next Page",
-    "_requirePageCompletion": true,
+    "_requirePageCompletion": false,
     "_skipMenus": true,
     "_nextPage": ""
   },
@@ -1442,7 +1442,7 @@
       "_isEnabled": true
     },
     "_hoverText": "",
-    "_requirePageCompletion": true,
+    "_requirePageCompletion": false,
     "_skipMenus": true,
     "_nextPage": ""
   },
@@ -1462,7 +1462,7 @@
       "_isEnabled": true
     },
     "_hoverText": "",
-    "_requirePageCompletion": true,
+    "_requirePageCompletion": false,
     "_skipMenus": true,
     "_nextPage": ""
   },
@@ -1482,7 +1482,7 @@
       "_isEnabled": true
     },
     "_hoverText": "",
-    "_requirePageCompletion": true,
+    "_requirePageCompletion": false,
     "_skipMenus": true,
     "_nextPage": ""
   }
