@@ -365,7 +365,7 @@
         "_styleBeforeCompletion": "hidden",
         "_styleAfterClick": "hidden",
         "_isFullWidth": true,
-        "_autoHide": true,
+        "_autoHide": false,
         "_className": "",
         "text": "Continue",
         "startText": "Begin",
