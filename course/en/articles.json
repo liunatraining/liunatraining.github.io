@@ -98,12 +98,12 @@
     },
     "_trickle": {
       "_isEnabled": false,
-      "_autoScroll": true,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_onChildren": false,
       "_scrollTo": "@block +1",
       "_button": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "_styleBeforeCompletion": "hidden",
         "_styleAfterClick": "hidden",
         "_isFullWidth": true,
