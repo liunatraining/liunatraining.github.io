@@ -36,7 +36,7 @@
       "_attempts": -1
     },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_autoScroll": true,
       "_scrollDuration": 500,
       "_onChildren": true,
