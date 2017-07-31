@@ -874,12 +874,88 @@
     }
   },
   {
+    "_id": "597f328a403365a41099a396",
+    "_type": "block",
+    "_parentId": "597a398995e5c7e40d947ec6",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 24,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Next Page",
+    "title": "Next Page",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "597f32a1403365a41099a398",
+    "_type": "block",
+    "_parentId": "597a2f3e95e5c7e40d947e83",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 25,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Next Page",
+    "title": "Next Page",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
     "_id": "59724f6587aa48a40dea680a",
     "_type": "block",
     "_parentId": "5970cb7087aa48a40dea67b0",
     "_isAvailable": true,
     "_isOptional": false,
-    "_trackingId": 24,
+    "_trackingId": 26,
     "_classes": "block b-20 quaternary",
     "body": "",
     "displayTitle": "",
@@ -917,7 +993,7 @@
     "_parentId": "5978d56695e5c7e40d947e6c",
     "_isAvailable": true,
     "_isOptional": false,
-    "_trackingId": 25,
+    "_trackingId": 27,
     "_classes": "block b-20 quaternary  nth-child-4",
     "body": "",
     "displayTitle": "",
@@ -950,16 +1026,92 @@
     }
   },
   {
+    "_id": "597f321d403365a41099a393",
+    "_type": "block",
+    "_parentId": "596fa46988590d600a454a6e",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 28,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Next Page",
+    "title": "Next Page",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
     "_id": "597b83f695e5c7e40d947ed6",
     "_type": "block",
     "_parentId": "5970cb7087aa48a40dea67b0",
     "_isAvailable": true,
     "_isOptional": false,
-    "_trackingId": 26,
+    "_trackingId": 29,
     "_classes": "",
     "body": "",
     "displayTitle": "Section Complete",
     "title": "Section Complete",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "597f3269403365a41099a394",
+    "_type": "block",
+    "_parentId": "5970cb7087aa48a40dea67b0",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 30,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Next Page",
+    "title": "Next Page",
     "_assessment": {
       "_quizBankID": 1
     },
