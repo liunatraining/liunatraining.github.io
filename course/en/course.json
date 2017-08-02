@@ -84,7 +84,7 @@
     "_isMenuDisabled": true
   },
   "_type": "course",
-  "_lockType": "",
+  "_lockType": "unlockFirst",
   "_classes": "",
   "_buttons": {
     "_submit": {
@@ -115,24 +115,24 @@
   "body": "<p>Welcome to the LIUNA Training Anti-Harassment course.</p>",
   "displayTitle": "LIUNA Training: Harassment Prevention Course",
   "title": "LIUNA Training: Harassment Prevention Course",
-  "_pageLevelProgress": {
-    "_isEnabled": true,
-    "_showPageCompletion": true
+  "_bookmarking": {
+    "_buttons": {
+      "no": "No",
+      "yes": "Yes"
+    },
+    "body": "Bookmarking",
+    "title": "Bookmarking",
+    "_level": "page",
+    "_isEnabled": true
   },
   "_assessment": {
-    "_postTotalScoreToLms": false,
-    "_isPercentageBased": false,
+    "_requireAssessmentPassed": false,
     "_scoreToPass": 60,
-    "_requireAssessmentPassed": false
+    "_isPercentageBased": false,
+    "_postTotalScoreToLms": false
   },
-  "_bookmarking": {
-    "_isEnabled": true,
-    "_level": "page",
-    "title": "Bookmarking",
-    "body": "Bookmarking",
-    "_buttons": {
-      "yes": "Yes",
-      "no": "No"
-    }
+  "_pageLevelProgress": {
+    "_showPageCompletion": true,
+    "_isEnabled": true
   }
 }

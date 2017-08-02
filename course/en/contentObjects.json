@@ -16,16 +16,13 @@
     "body": "<p>This is the opening section to the course. It will introduce you to many of the topics relevant to harassment.</p>",
     "displayTitle": "Opening Section",
     "title": "Opening Section",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_bookmarking": {
-      "_isEnabled": false,
-      "_level": "page"
-    },
-    "_menuBypass": {
+      "_level": "page",
       "_isEnabled": false
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   },
   {
@@ -45,16 +42,13 @@
     "body": "<p>During this section, you will learn about what harassment is.</p>",
     "displayTitle": "What is harassment?",
     "title": "What is harassment?",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "page"
+      "_level": "page",
+      "_isEnabled": true
     },
-    "_menuBypass": {
-      "_isEnabled": false
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   },
   {
@@ -74,16 +68,13 @@
     "body": "<p>This section aims to cover many of the risk factors as well as warning signs present within harassment.</p>",
     "displayTitle": "Risk Factors, Warning Signs, & Prevention",
     "title": "Risk Factors, Warning Signs, & Prevention",
-    "_bookmarking": {
-      "_level": "page",
-      "_isEnabled": true
-    },
     "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_showPageCompletion": true
     },
-    "_menuBypass": {
-      "_isEnabled": false
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
     }
   },
   {
@@ -103,16 +94,13 @@
     "body": "<p>This section will cover many of the topics present within reporting and investigation of harassment.</p>",
     "displayTitle": "Reporting & Investigation",
     "title": "Reporting & Investigation",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "page"
+      "_level": "page",
+      "_isEnabled": true
     },
-    "_menuBypass": {
-      "_isEnabled": false
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   },
   {
@@ -132,16 +120,13 @@
     "body": "<p>This is the final assessment. This will test your knowledge about the course.</p>",
     "displayTitle": "Assessment",
     "title": "Assessment",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "page"
+      "_level": "page",
+      "_isEnabled": true
     },
-    "_menuBypass": {
-      "_isEnabled": false
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   }
 ]
