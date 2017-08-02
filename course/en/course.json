@@ -81,7 +81,7 @@
     "_isEnabled": false,
     "_startIds": [],
     "_force": false,
-    "_isMenuDisabled": false
+    "_isMenuDisabled": true
   },
   "_type": "course",
   "_lockType": "",

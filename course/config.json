@@ -23,43 +23,44 @@
     "large": 1024
   },
   "_id": "596fa46988590d600a454a73",
-  "_spoor": {
-    "_advancedSettings": {
-      "_commitOnVisibilityChangeHidden": true,
-      "_suppressErrors": false,
-      "_commitRetryDelay": 2000,
-      "_maxCommitRetries": 5,
-      "_timedCommitFrequency": 10,
-      "_commitOnStatusChange": true,
-      "_showDebugWindow": false
-    },
-    "_reporting": {
-      "_resetStatusOnLanguageChange": false,
-      "_onAssessmentFailure": "incomplete",
-      "_onTrackingCriteriaMet": "completed"
-    },
-    "_tracking": {
-      "_shouldRecordInteractions": true,
-      "_shouldStoreResponses": false,
-      "_shouldSubmitScore": false,
-      "_requireAssessmentPassed": false,
-      "_requireCourseCompleted": true
-    },
-    "_isEnabled": true
-  },
   "_trickle": {
     "_completionAttribute": "_isInteractionComplete"
+  },
+  "_spoor": {
+    "_isEnabled": true,
+    "_tracking": {
+      "_requireCourseCompleted": true,
+      "_requireAssessmentPassed": false,
+      "_shouldSubmitScore": false,
+      "_shouldStoreResponses": false,
+      "_shouldRecordInteractions": true
+    },
+    "_reporting": {
+      "_onTrackingCriteriaMet": "completed",
+      "_onAssessmentFailure": "incomplete",
+      "_resetStatusOnLanguageChange": false
+    },
+    "_advancedSettings": {
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": false,
+      "_commitOnVisibilityChangeHidden": true
+    }
   },
   "build": {
     "includes": [
       "adapt-theme-community",
       "adapt-contrib-boxMenu",
-      "adapt-contrib-spoor",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-trickle",
-      "adapt-contrib-assessment",
-      "adapt-contrib-tutor",
+      "adapt-menu-bypass",
       "adapt-contrib-bookmarking",
+      "adapt-contrib-tutor",
+      "adapt-contrib-assessment",
+      "adapt-contrib-trickle",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-spoor",
       "adapt-expose",
       "adapt-stacklist",
       "adapt-contrib-text",
