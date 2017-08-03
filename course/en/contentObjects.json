@@ -16,13 +16,13 @@
     "body": "<p>This is the opening section to the course. It will introduce you to many of the topics relevant to harassment.</p>",
     "displayTitle": "Opening Section",
     "title": "Opening Section",
-    "_bookmarking": {
-      "_level": "page",
-      "_isEnabled": false
-    },
     "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": false,
+      "_level": "page"
     }
   },
   {
@@ -117,16 +117,16 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>This is the final assessment. This will test your knowledge about the course.</p>",
+    "body": "<p>This section will test your knowledge about the course.</p>",
     "displayTitle": "Assessment",
     "title": "Assessment",
-    "_bookmarking": {
-      "_level": "page",
-      "_isEnabled": true
-    },
     "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
     }
   }
 ]

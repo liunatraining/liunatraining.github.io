@@ -54,6 +54,9 @@
       "_graphic": {
         "ariaRegion": ""
       },
+      "_textinput": {
+        "ariaRegion": "This question requires you to input your answer in the textbox provided. When you have done so, select the submit button below."
+      },
       "_mcq": {
         "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
       },
@@ -84,7 +87,7 @@
     "_isMenuDisabled": true
   },
   "_type": "course",
-  "_lockType": "unlockFirst",
+  "_lockType": "",
   "_classes": "",
   "_buttons": {
     "_submit": {
@@ -111,8 +114,8 @@
     "remainingAttemptText": "final attempt",
     "disabledAriaLabel": "This button is disabled at the moment"
   },
-  "_latestTrackingId": 30,
-  "body": "<p>Welcome to the LIUNA Training Anti-Harassment course.</p>",
+  "_latestTrackingId": 31,
+  "body": "<p>Welcome to the LIUNA Training Anti-Harassment course.</p><p>For testing purposes, all the sections are currently unlocked.</p>",
   "displayTitle": "LIUNA Training: Harassment Prevention Course",
   "title": "LIUNA Training: Harassment Prevention Course",
   "_bookmarking": {

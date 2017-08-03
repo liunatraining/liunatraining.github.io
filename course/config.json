@@ -69,7 +69,8 @@
       "adapt-contrib-hotgraphic",
       "adapt-contrib-narrative",
       "adapt-contrib-accordion",
-      "adapt-next-button"
+      "adapt-next-button",
+      "adapt-contrib-textInput"
     ]
   }
 }

@@ -231,7 +231,7 @@
     "_layout": "right",
     "_type": "component",
     "_parentId": "5970cb7087aa48a40dea67b1",
-    "body": "<p>After reading&nbsp;about why happened to Maria, would you consider this case to be harassment?</p>",
+    "body": "<p>After reading&nbsp;about what happened to Maria, would you consider this case to be harassment?</p>",
     "displayTitle": "",
     "title": "Question 2",
     "_isAvailable": true,
@@ -321,7 +321,7 @@
     "_layout": "right",
     "_type": "component",
     "_parentId": "5970cdbd87aa48a40dea67b5",
-    "body": "<p>After reading about why happened to Matthew, would you consider this case to be harassment?</p>",
+    "body": "<p>After reading about what happened to Matthew, would you consider this case to be harassment?</p>",
     "displayTitle": "",
     "title": "Question 1",
     "_isAvailable": true,
@@ -466,7 +466,7 @@
         "front": "Sex",
         "back": {
           "title": "",
-          "body": "<p>&bull;Gender including transgender</p><p>&bull;Unwelcome sexual advances</p><p>&bull;Requests for sexual favors</p><p>&bull;Other verbal or physical harassment of a sexual nature</p><p>&bull;Harasser&rsquo;s gender doesn&rsquo;t matter</p>",
+          "body": "<p>&bull;Gender including transgender</p><p>&bull;Unwelcome sexual advances</p><p>&bull;Requests for sexual favors</p><p>&bull;Other verbal or physical harassment of a sexual nature</p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -556,7 +556,7 @@
     "_layout": "full",
     "_type": "component",
     "_parentId": "5972453f87aa48a40dea67cc",
-    "body": "<p>You have successfully finished the first section of this lesson!</p><p>Please press the &quot;Next&quot; button below in order to continue on to the next section.</p>",
+    "body": "<p>You have successfully finished the first section of this lesson!</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
     "displayTitle": "",
     "title": "First Section Complete",
     "_isAvailable": true,
@@ -1169,7 +1169,7 @@
     "_layout": "full",
     "_type": "component",
     "_parentId": "597a38c895e5c7e40d947e8d",
-    "body": "<p>Here&rsquo;s what you have seen:</p><ul><li>How to file a harassment complaint</li><li>What happens after you file a complaint</li><li>Possible outcomes for the harasser</li></ul><p>Press Continue to move on to the next topic</p>",
+    "body": "<p>Here&rsquo;s what you have seen:</p><ul><li>How to file a harassment complaint</li><li>What happens after you file a complaint</li><li>Possible outcomes for the harasser</li></ul><p>You have completed this section.</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
     "displayTitle": "",
     "title": "Component title",
     "_isAvailable": true,
@@ -1276,7 +1276,7 @@
     "_layout": "full",
     "_type": "component",
     "_parentId": "597a3bfc95e5c7e40d947ecb",
-    "body": "<ul><li>Some of the Risk Factors that can lead to harassment</li><li>Warning Signs that you or someone is being harassed</li><li>Prevention techniques and ways to stop harassment</li></ul><p>Press Continue to move on to the next topic</p>",
+    "body": "<ul><li>Some of the Risk Factors that can lead to harassment</li><li>Warning Signs that you or someone is being harassed</li><li>Prevention techniques and ways to stop harassment</li></ul><p>You have completed this section.</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
     "displayTitle": "Here’s what you have seen:",
     "title": "Here’s what you have seen:",
     "_isAvailable": true,
@@ -1354,7 +1354,7 @@
     "_layout": "full",
     "_type": "component",
     "_parentId": "597b83f695e5c7e40d947ed6",
-    "body": "<p>You have completed this section. Please select next to continue.</p>",
+    "body": "<p>You have completed this section.</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
     "displayTitle": "",
     "title": "Component title",
     "_isAvailable": true,
@@ -1485,5 +1485,87 @@
     "_requirePageCompletion": false,
     "_skipMenus": true,
     "_nextPage": ""
+  },
+  {
+    "_id": "5983129f403365a41099a3eb",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59831258403365a41099a3e9",
+    "body": "",
+    "displayTitle": "Registration",
+    "title": "Registration",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "textinput",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Please fill out the form below as proof that you have taken this course.",
+    "_items": [
+      {
+        "_answers": [],
+        "prefix": "First Name",
+        "suffix": "",
+        "placeholder": ""
+      },
+      {
+        "_answers": [],
+        "prefix": "Last Name",
+        "suffix": "",
+        "placeholder": ""
+      },
+      {
+        "_answers": [],
+        "prefix": "Training Fund",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
   }
 ]

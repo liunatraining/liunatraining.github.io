@@ -1138,5 +1138,43 @@
         "_isLockedOnRevisit": false
       }
     }
+  },
+  {
+    "_id": "59831258403365a41099a3e9",
+    "_type": "block",
+    "_parentId": "5978d56695e5c7e40d947e6c",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 31,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "The following is a proof of concept",
+    "title": "The following is a proof of concept",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
   }
 ]
