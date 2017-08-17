@@ -84,10 +84,10 @@
     "_isEnabled": false,
     "_startIds": [],
     "_force": false,
-    "_isMenuDisabled": true
+    "_isMenuDisabled": false
   },
   "_type": "course",
-  "_lockType": "",
+  "_lockType": "unlockFirst",
   "_classes": "",
   "_buttons": {
     "_submit": {
@@ -115,27 +115,27 @@
     "disabledAriaLabel": "This button is disabled at the moment"
   },
   "_latestTrackingId": 31,
-  "body": "<p>Welcome to the LIUNA Training Anti-Harassment course.</p><p>For testing purposes, all the sections are currently unlocked.</p>",
+  "body": "<p>Welcome to the LIUNA Training Anti-Harassment course.</p>",
   "displayTitle": "LIUNA Training: Harassment Prevention Course",
   "title": "LIUNA Training: Harassment Prevention Course",
-  "_bookmarking": {
-    "_buttons": {
-      "no": "No",
-      "yes": "Yes"
-    },
-    "body": "Bookmarking",
-    "title": "Bookmarking",
-    "_level": "page",
-    "_isEnabled": true
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true
   },
   "_assessment": {
-    "_requireAssessmentPassed": false,
-    "_scoreToPass": 60,
+    "_postTotalScoreToLms": false,
     "_isPercentageBased": false,
-    "_postTotalScoreToLms": false
+    "_scoreToPass": 60,
+    "_requireAssessmentPassed": false
   },
-  "_pageLevelProgress": {
-    "_showPageCompletion": true,
-    "_isEnabled": true
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "page",
+    "title": "Bookmarking",
+    "body": "Bookmarking",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
   }
 }

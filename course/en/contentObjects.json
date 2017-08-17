@@ -2,7 +2,7 @@
   {
     "_id": "596fa46988590d600a454a6d",
     "_type": "page",
-    "_parentId": "course",
+    "_parentId": "5994dfe080d0738013d05e7f",
     "_graphic": {
       "alt": "Start",
       "src": "http://smartvoiceacting.com/wp-content/uploads/2016/08/start-here.png"
@@ -12,7 +12,7 @@
     "_lockedBy": [],
     "duration": "",
     "linkText": "View",
-    "_classes": "",
+    "_classes": "firstpage",
     "body": "<p>This is the opening section to the course. It will introduce you to many of the topics relevant to harassment.</p>",
     "displayTitle": "Opening Section",
     "title": "Opening Section",
@@ -23,12 +23,44 @@
     "_bookmarking": {
       "_isEnabled": false,
       "_level": "page"
+    },
+    "_menuBypass": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "5994dfe080d0738013d05e7f",
+    "_type": "menu",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "http://pilotfire.com/wp-content/uploads/start-here.png"
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Start Course",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_menuBypass": {
+      "_isEnabled": true
     }
   },
   {
     "_id": "5970cb6f87aa48a40dea67af",
     "_type": "page",
-    "_parentId": "course",
+    "_parentId": "5994dfe080d0738013d05e7f",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -42,19 +74,22 @@
     "body": "<p>During this section, you will learn about what harassment is.</p>",
     "displayTitle": "What is harassment?",
     "title": "What is harassment?",
-    "_bookmarking": {
-      "_level": "page",
-      "_isEnabled": true
-    },
     "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_menuBypass": {
+      "_isEnabled": false
     }
   },
   {
     "_id": "597a398995e5c7e40d947ec5",
     "_type": "page",
-    "_parentId": "course",
+    "_parentId": "5994dfe080d0738013d05e7f",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -75,12 +110,15 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "page"
+    },
+    "_menuBypass": {
+      "_isEnabled": false
     }
   },
   {
     "_id": "597a2f3e95e5c7e40d947e82",
     "_type": "page",
-    "_parentId": "course",
+    "_parentId": "5994dfe080d0738013d05e7f",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -94,19 +132,22 @@
     "body": "<p>This section will cover many of the topics present within reporting and investigation of harassment.</p>",
     "displayTitle": "Reporting & Investigation",
     "title": "Reporting & Investigation",
-    "_bookmarking": {
-      "_level": "page",
-      "_isEnabled": true
-    },
     "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    },
+    "_menuBypass": {
+      "_isEnabled": false
     }
   },
   {
     "_id": "5978d56695e5c7e40d947e6b",
     "_type": "page",
-    "_parentId": "course",
+    "_parentId": "5994dfe080d0738013d05e7f",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -127,6 +168,9 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "page"
+    },
+    "_menuBypass": {
+      "_isEnabled": false
     }
   }
 ]
