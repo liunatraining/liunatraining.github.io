@@ -297,7 +297,7 @@
       "_scrollTo": "@block +1",
       "_button": {
         "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
+        "_styleBeforeCompletion": "visible",
         "_styleAfterClick": "hidden",
         "_isFullWidth": true,
         "_autoHide": true,
