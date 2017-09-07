@@ -291,8 +291,8 @@
     "displayTitle": "",
     "title": "Reporting Harassment",
     "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
+      "_isEnabled": true,
+      "_autoScroll": true,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
       "_button": {
@@ -309,7 +309,7 @@
       },
       "_stepLocking": {
         "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     }
