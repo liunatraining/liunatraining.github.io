@@ -641,7 +641,7 @@
     "displayTitle": "Summary",
     "title": "Summary",
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
@@ -816,7 +816,7 @@
     "displayTitle": "",
     "title": "Block title",
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_autoScroll": false,
       "_scrollDuration": 500,
       "_scrollTo": "@block +1",
