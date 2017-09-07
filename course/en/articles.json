@@ -1,69 +1,43 @@
 [
   {
-    "_id": "596fa46988590d600a454a6e",
+    "_id": "59b02d12436412cc14654d01",
     "_type": "article",
-    "_parentId": "596fa46988590d600a454a6d",
+    "_parentId": "59b02d12436412cc14654d00",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
     "body": "",
-    "displayTitle": "LIUNA Training & Education Fund",
-    "title": "LIUNA Training & Education Fund",
+    "displayTitle": "LIUNA Training and Education Fund",
+    "title": "LIUNA Training and Education Fund",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
-      "_onChildren": false,
-      "_scrollDuration": 500,
+      "_isEnabled": false,
       "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": false,
-      "_scoreToPass": 60,
-      "_isPercentageBased": false,
-      "_suppressMarking": true,
-      "_questions": {
-        "_canShowModelAnswer": false,
-        "_canShowMarking": false,
-        "_canShowFeedback": false,
-        "_resetType": "soft"
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
       },
-      "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
-      },
-      "_banks": {
-        "_randomisation": false,
-        "_split": "",
-        "_isEnabled": false
-      },
-      "_id": "",
-      "_isEnabled": false
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "5970cb7087aa48a40dea67b0",
+    "_id": "59b056c2877987bc144d2b13",
     "_type": "article",
-    "_parentId": "5970cb6f87aa48a40dea67af",
+    "_parentId": "59b056c2877987bc144d2b12",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -71,182 +45,34 @@
     "displayTitle": "What is harassment?",
     "title": "What is harassment?",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
-      "_onChildren": false,
-      "_scrollDuration": 500,
+      "_isEnabled": false,
       "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": false,
-      "_scoreToPass": 60,
-      "_isPercentageBased": false,
-      "_suppressMarking": true,
-      "_questions": {
-        "_canShowModelAnswer": false,
-        "_canShowMarking": false,
-        "_canShowFeedback": false,
-        "_resetType": "soft"
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
       },
-      "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
-      },
-      "_banks": {
-        "_randomisation": false,
-        "_split": "",
-        "_isEnabled": false
-      },
-      "_id": "",
-      "_isEnabled": false
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "5978d56695e5c7e40d947e6c",
+    "_id": "59b1457dfc94f1fc127eec60",
     "_type": "article",
-    "_parentId": "5978d56695e5c7e40d947e6b",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "Final Section",
-    "title": "Final Section",
-    "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
-      "_onChildren": false,
-      "_scrollDuration": 500,
-      "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": false,
-      "_scoreToPass": 60,
-      "_isPercentageBased": false,
-      "_suppressMarking": true,
-      "_questions": {
-        "_canShowModelAnswer": false,
-        "_canShowMarking": false,
-        "_canShowFeedback": false,
-        "_resetType": "soft"
-      },
-      "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
-      },
-      "_banks": {
-        "_randomisation": false,
-        "_split": "",
-        "_isEnabled": false
-      },
-      "_id": "",
-      "_isEnabled": false
-    }
-  },
-  {
-    "_id": "597a2f3e95e5c7e40d947e83",
-    "_type": "article",
-    "_parentId": "597a2f3e95e5c7e40d947e82",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "",
-    "title": "Article title",
-    "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
-      "_onChildren": false,
-      "_scrollDuration": 500,
-      "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": false,
-      "_scoreToPass": 60,
-      "_isPercentageBased": false,
-      "_suppressMarking": true,
-      "_questions": {
-        "_canShowModelAnswer": false,
-        "_canShowMarking": false,
-        "_canShowFeedback": false,
-        "_resetType": "soft"
-      },
-      "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
-      },
-      "_banks": {
-        "_randomisation": false,
-        "_split": "",
-        "_isEnabled": false
-      },
-      "_id": "",
-      "_isEnabled": false
-    }
-  },
-  {
-    "_id": "597a398995e5c7e40d947ec6",
-    "_type": "article",
-    "_parentId": "597a398995e5c7e40d947ec5",
+    "_parentId": "59b1457dfc94f1fc127eec5f",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -254,54 +80,98 @@
     "displayTitle": "Risk Factors",
     "title": "Risk Factors",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
-      "_onChildren": false,
-      "_scrollDuration": 500,
+      "_isEnabled": false,
       "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": false,
-      "_scoreToPass": 60,
-      "_isPercentageBased": false,
-      "_suppressMarking": true,
-      "_questions": {
-        "_canShowModelAnswer": false,
-        "_canShowMarking": false,
-        "_canShowFeedback": false,
-        "_resetType": "soft"
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
       },
-      "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59b149fbfc94f1fc127eec6d",
+    "_type": "article",
+    "_parentId": "59b149fbfc94f1fc127eec6c",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Reporting & Investigation",
+    "title": "Reporting & Investigation",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
       },
-      "_banks": {
-        "_randomisation": false,
-        "_split": "",
-        "_isEnabled": false
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59b15eb2f880bbb009922f41",
+    "_type": "article",
+    "_parentId": "59b15eb2f880bbb009922f40",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Final Section",
+    "title": "Final Section",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
       },
-      "_id": "",
-      "_isEnabled": false
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   }
 ]

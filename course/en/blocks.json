@@ -1,18 +1,15 @@
 [
   {
-    "_id": "5970cb7087aa48a40dea67b1",
+    "_id": "59b02d12436412cc14654d02",
     "_type": "block",
-    "_parentId": "5970cb7087aa48a40dea67b0",
+    "_parentId": "59b02d12436412cc14654d01",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 1,
     "_classes": "",
     "body": "",
-    "displayTitle": "Case Study #1",
-    "title": "Case Study #1",
-    "_assessment": {
-      "_quizBankID": 1
-    },
+    "displayTitle": "Tutorial",
+    "title": "Tutorial",
     "_trickle": {
       "_isEnabled": true,
       "_autoScroll": true,
@@ -38,465 +35,429 @@
     }
   },
   {
-    "_id": "5978d56795e5c7e40d947e6d",
+    "_id": "59b056c2877987bc144d2b14",
     "_type": "block",
-    "_parentId": "5978d56695e5c7e40d947e6c",
+    "_parentId": "59b056c2877987bc144d2b13",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 2,
     "_classes": "",
     "body": "",
-    "displayTitle": "",
-    "title": "Title",
+    "displayTitle": "Case Study #1",
+    "title": "Case Study #1",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
+      "_isEnabled": true,
+      "_autoScroll": true,
       "_scrollDuration": 500,
-      "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "597a340d95e5c7e40d947e88",
+    "_id": "59b1457dfc94f1fc127eec61",
     "_type": "block",
-    "_parentId": "597a2f3e95e5c7e40d947e83",
+    "_parentId": "59b1457dfc94f1fc127eec60",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 3,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "",
-    "title": "Block title",
-    "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
-      "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "_id": "597a3c4c95e5c7e40d947ecd",
-    "_type": "block",
-    "_parentId": "597a398995e5c7e40d947ec6",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 4,
     "_classes": "",
     "body": "<p>Let&rsquo;s look at some of the risk factors that could create an environment for harassment</p>",
     "displayTitle": "Risks",
     "title": "Risks",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "597b8f4595e5c7e40d947ed8",
+    "_id": "59b159fbfc94f1fc127eec70",
     "_type": "block",
-    "_parentId": "596fa46988590d600a454a6e",
+    "_parentId": "59b149fbfc94f1fc127eec6d",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 4,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "How to report",
+    "title": "How to report",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59b15eb2f880bbb009922f42",
+    "_type": "block",
+    "_parentId": "59b15eb2f880bbb009922f41",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 5,
     "_classes": "",
     "body": "",
-    "displayTitle": "Tutorial",
-    "title": "Tutorial",
+    "displayTitle": "Instructions",
+    "title": "Instructions",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
+      "_isEnabled": true,
+      "_autoScroll": true,
       "_scrollDuration": 500,
-      "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "596fb74188590d600a454a86",
+    "_id": "59b0394b436412cc14654d06",
     "_type": "block",
-    "_parentId": "596fa46988590d600a454a6e",
+    "_parentId": "59b02d12436412cc14654d01",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 6,
-    "_classes": "block b-30 transparent  nth-child-6",
+    "_classes": "transparent",
     "body": "",
     "displayTitle": "",
-    "title": "Welcome!",
+    "title": "Multiple Choice Question",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "5970cedc87aa48a40dea67b8",
+    "_id": "59b136b2fc94f1fc127eec52",
     "_type": "block",
-    "_parentId": "5970cb7087aa48a40dea67b0",
+    "_parentId": "59b056c2877987bc144d2b13",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 7,
-    "_classes": "block b-20 quaternary",
+    "_classes": "tertiary",
     "body": "",
-    "displayTitle": "Definition of Harassment",
-    "title": "Definition of Harassment",
+    "displayTitle": "Definition of Harassment (1 of 3)",
+    "title": "Definition of Harassment (1 of 3)",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": false,
       "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "5978d67795e5c7e40d947e6f",
+    "_id": "59b1466cfc94f1fc127eec63",
     "_type": "block",
-    "_parentId": "5978d56695e5c7e40d947e6c",
+    "_parentId": "59b1457dfc94f1fc127eec60",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 8,
-    "_classes": "block b-20 quaternary  nth-child-4",
-    "body": "",
-    "displayTitle": "",
-    "title": "Question 1",
-    "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
-      "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "_id": "597a2f3e95e5c7e40d947e84",
-    "_type": "block",
-    "_parentId": "597a2f3e95e5c7e40d947e83",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 9,
-    "_classes": "block b-20 quaternary  nth-child-4",
-    "body": "",
-    "displayTitle": "Example Harassment Report",
-    "title": "Example Harassment Report",
-    "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
-      "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "_id": "597a398995e5c7e40d947ec7",
-    "_type": "block",
-    "_parentId": "597a398995e5c7e40d947ec6",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 10,
-    "_classes": "block b-20 quaternary  nth-child-4",
+    "_classes": "tertiary",
     "body": "<p>Some of the situations that create risk factors are unavoidable, and harassment can occur anywhere.&nbsp; Besides witnessing the harassment directly, there are other warning signs that might indicate someone is being harassed.</p>",
     "displayTitle": "Warning Signs",
     "title": "Warning Signs",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": false,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "596fa46988590d600a454a70",
+    "_id": "59b149fbfc94f1fc127eec6e",
     "_type": "block",
-    "_parentId": "596fa46988590d600a454a6e",
+    "_parentId": "59b149fbfc94f1fc127eec6d",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 9,
+    "_classes": "tertiary",
+    "body": "",
+    "displayTitle": "",
+    "title": "Reporting Harassment",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59b15ed9f880bbb009922f44",
+    "_type": "block",
+    "_parentId": "59b15eb2f880bbb009922f41",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 10,
+    "_classes": "tertiary",
+    "body": "",
+    "displayTitle": "Question #1",
+    "title": "Question #1",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59b0517b877987bc144d2b03",
+    "_type": "block",
+    "_parentId": "59b02d12436412cc14654d01",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 11,
-    "_classes": "block b-20 quaternary",
+    "_classes": "tertiary",
     "body": "",
     "displayTitle": "Harassing conduct will not be tolerated.",
     "title": "Harassing conduct will not be tolerated.",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "5970dc6f87aa48a40dea67ba",
+    "_id": "59b13781fc94f1fc127eec54",
     "_type": "block",
-    "_parentId": "5970cb7087aa48a40dea67b0",
+    "_parentId": "59b056c2877987bc144d2b13",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 12,
     "_classes": "",
     "body": "",
-    "displayTitle": "Definition of Harassment",
-    "title": "Definition 2",
+    "displayTitle": "Definition of Harassment (2 of 3)",
+    "title": "Definition of Harassment (2 of 3)",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": false,
       "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "5978d70c95e5c7e40d947e72",
+    "_id": "59b14738fc94f1fc127eec65",
     "_type": "block",
-    "_parentId": "5978d56695e5c7e40d947e6c",
+    "_parentId": "59b1457dfc94f1fc127eec60",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 13,
     "_classes": "",
-    "body": "",
-    "displayTitle": "",
-    "title": "Question 2",
+    "body": "<p>Now some of the risk factors that lead to harassment, let&rsquo;s focus on ways of preventing or stopping it.</p>",
+    "displayTitle": "Prevention",
+    "title": "Prevention",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "597a378e95e5c7e40d947e8a",
+    "_id": "59b15cdff880bbb009922f35",
     "_type": "block",
-    "_parentId": "597a2f3e95e5c7e40d947e83",
+    "_parentId": "59b149fbfc94f1fc127eec6d",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 14,
@@ -505,74 +466,68 @@
     "displayTitle": "Investigation",
     "title": "Investigation",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "597a3afe95e5c7e40d947ec9",
+    "_id": "59b15edbf880bbb009922f45",
     "_type": "block",
-    "_parentId": "597a398995e5c7e40d947ec6",
+    "_parentId": "59b15eb2f880bbb009922f41",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 15,
     "_classes": "",
     "body": "",
-    "displayTitle": "Prevention",
-    "title": "Prevention",
+    "displayTitle": "Question #2",
+    "title": "Question #2",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": false,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "596fae6d88590d600a454a76",
+    "_id": "59b05314877987bc144d2b06",
     "_type": "block",
-    "_parentId": "596fa46988590d600a454a6e",
+    "_parentId": "59b02d12436412cc14654d01",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 16,
@@ -581,600 +536,517 @@
     "displayTitle": "What you will learn:",
     "title": "What you will learn:",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "5970dc7487aa48a40dea67bb",
+    "_id": "59b1385dfc94f1fc127eec56",
     "_type": "block",
-    "_parentId": "5970cb7087aa48a40dea67b0",
+    "_parentId": "59b056c2877987bc144d2b13",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 17,
-    "_classes": "block b-20 quaternary",
+    "_classes": "tertiary",
     "body": "",
-    "displayTitle": "Definition of Harassment",
-    "title": "Definition 3",
+    "displayTitle": "Definition of Harassment (3 of 3)",
+    "title": "Definition of Harassment (3 of 3)",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "5978d75195e5c7e40d947e74",
+    "_id": "59b14848fc94f1fc127eec67",
     "_type": "block",
-    "_parentId": "5978d56695e5c7e40d947e6c",
+    "_parentId": "59b1457dfc94f1fc127eec60",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 18,
-    "_classes": "block b-20 quaternary  nth-child-4",
+    "_classes": "tertiary",
     "body": "",
-    "displayTitle": "",
-    "title": "Question 3",
+    "displayTitle": "Section Summary",
+    "title": "Section Summary",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
+      "_isEnabled": false,
+      "_autoScroll": false,
       "_scrollDuration": 500,
-      "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "597a38c895e5c7e40d947e8d",
+    "_id": "59b15d2af880bbb009922f37",
     "_type": "block",
-    "_parentId": "597a2f3e95e5c7e40d947e83",
+    "_parentId": "59b149fbfc94f1fc127eec6d",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 19,
-    "_classes": "block b-20 quaternary  nth-child-4",
-    "body": "<p>You have now completed the section Reporting and Investigation.</p>",
+    "_classes": "tertiary",
+    "body": "",
     "displayTitle": "Summary",
     "title": "Summary",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "597a3bfc95e5c7e40d947ecb",
+    "_id": "59b15edcf880bbb009922f46",
     "_type": "block",
-    "_parentId": "597a398995e5c7e40d947ec6",
+    "_parentId": "59b15eb2f880bbb009922f41",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 20,
-    "_classes": "block b-20 quaternary  nth-child-4",
-    "body": "<p>You have now completed the section Be Aware.</p>",
-    "displayTitle": "Summary",
-    "title": "Summary",
+    "_classes": "tertiary",
+    "body": "",
+    "displayTitle": "Question #3",
+    "title": "Question #3",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
+      "_isEnabled": true,
+      "_autoScroll": true,
       "_scrollDuration": 500,
-      "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "5970cdbd87aa48a40dea67b5",
+    "_id": "59b05397877987bc144d2b0a",
     "_type": "block",
-    "_parentId": "5970cb7087aa48a40dea67b0",
+    "_parentId": "59b02d12436412cc14654d01",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 21,
+    "_classes": "tertiary",
+    "body": "<p>You have successfully finished the first section of this lesson!</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
+    "displayTitle": "First Section Complete",
+    "title": "First Section Complete",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59b13d9ffc94f1fc127eec58",
+    "_type": "block",
+    "_parentId": "59b056c2877987bc144d2b13",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 22,
     "_classes": "",
     "body": "",
     "displayTitle": "Case Study #2",
     "title": "Case Study #2",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "_id": "5972453f87aa48a40dea67cc",
-    "_type": "block",
-    "_parentId": "596fa46988590d600a454a6e",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 22,
-    "_classes": "block b-20 quaternary",
-    "body": "",
-    "displayTitle": "First Section Complete",
-    "title": "First Section Complete",
-    "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
       "_scrollDuration": 500,
-      "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "5978d78a95e5c7e40d947e76",
+    "_id": "59b15da0f880bbb009922f3a",
     "_type": "block",
-    "_parentId": "5978d56695e5c7e40d947e6c",
+    "_parentId": "59b1457dfc94f1fc127eec60",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 23,
     "_classes": "",
     "body": "",
     "displayTitle": "",
-    "title": "Question 4",
+    "title": "Block title",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
+      "_isEnabled": false,
+      "_autoScroll": false,
       "_scrollDuration": 500,
-      "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "597f328a403365a41099a396",
+    "_id": "59b15e2af880bbb009922f3e",
     "_type": "block",
-    "_parentId": "597a398995e5c7e40d947ec6",
+    "_parentId": "59b149fbfc94f1fc127eec6d",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 24,
     "_classes": "",
     "body": "",
-    "displayTitle": "Next Page",
-    "title": "Next Page",
+    "displayTitle": "",
+    "title": "Block title",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "597f32a1403365a41099a398",
+    "_id": "59b15edcf880bbb009922f47",
     "_type": "block",
-    "_parentId": "597a2f3e95e5c7e40d947e83",
+    "_parentId": "59b15eb2f880bbb009922f41",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 25,
     "_classes": "",
     "body": "",
-    "displayTitle": "Next Page",
-    "title": "Next Page",
+    "displayTitle": "Question #4",
+    "title": "Question #4",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
+      "_isEnabled": true,
+      "_autoScroll": true,
       "_scrollDuration": 500,
-      "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "59724f6587aa48a40dea680a",
+    "_id": "59b13ebffc94f1fc127eec5b",
     "_type": "block",
-    "_parentId": "5970cb7087aa48a40dea67b0",
+    "_parentId": "59b056c2877987bc144d2b13",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 26,
-    "_classes": "block b-20 quaternary",
+    "_classes": "tertiary",
     "body": "",
-    "displayTitle": "",
-    "title": "Block title",
+    "displayTitle": "What is considered to be harassment, legally?",
+    "title": "What is considered to be harassment, legally?",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "5978d7d095e5c7e40d947e78",
+    "_id": "59b15fa0f880bbb009922f4c",
     "_type": "block",
-    "_parentId": "5978d56695e5c7e40d947e6c",
+    "_parentId": "59b15eb2f880bbb009922f41",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 27,
-    "_classes": "block b-20 quaternary  nth-child-4",
+    "_classes": "tertiary",
     "body": "",
-    "displayTitle": "",
-    "title": "Question 5",
+    "displayTitle": "Question #5",
+    "title": "Question #5",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": true,
-      "_isEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "597f321d403365a41099a393",
+    "_id": "59b1410ffc94f1fc127eec5d",
     "_type": "block",
-    "_parentId": "596fa46988590d600a454a6e",
+    "_parentId": "59b056c2877987bc144d2b13",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 28,
     "_classes": "",
-    "body": "",
-    "displayTitle": "Next Page",
-    "title": "Next Page",
+    "body": "<p>You have completed this section.</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
+    "displayTitle": "Section Complete",
+    "title": "Section Complete",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": false,
       "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "597b83f695e5c7e40d947ed6",
+    "_id": "59b161b4f880bbb009922f4e",
     "_type": "block",
-    "_parentId": "5970cb7087aa48a40dea67b0",
+    "_parentId": "59b15eb2f880bbb009922f41",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 29,
     "_classes": "",
     "body": "",
-    "displayTitle": "Section Complete",
-    "title": "Section Complete",
-    "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
-      "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "_id": "597f3269403365a41099a394",
-    "_type": "block",
-    "_parentId": "5970cb7087aa48a40dea67b0",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 30,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "Next Page",
-    "title": "Next Page",
-    "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
-      "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "_id": "59831258403365a41099a3e9",
-    "_type": "block",
-    "_parentId": "5978d56695e5c7e40d947e6c",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 31,
-    "_classes": "",
-    "body": "",
     "displayTitle": "The following is a proof of concept",
     "title": "The following is a proof of concept",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
+      "_isEnabled": true,
+      "_autoScroll": true,
       "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59b1623cf880bbb009922f50",
+    "_type": "block",
+    "_parentId": "59b15eb2f880bbb009922f41",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 30,
+    "_classes": "tertiary",
+    "body": "",
+    "displayTitle": "Congratulations",
+    "title": "Congratulations",
+    "_trickle": {
+      "_isEnabled": false,
       "_autoScroll": false,
-      "_isEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   }
 ]

@@ -1,66 +1,30 @@
 [
   {
-    "_id": "596fa46988590d600a454a6d",
+    "_id": "59b02d12436412cc14654d00",
     "_type": "page",
-    "_parentId": "5994dfe080d0738013d05e7f",
-    "_graphic": {
-      "alt": "Start",
-      "src": "http://smartvoiceacting.com/wp-content/uploads/2016/08/start-here.png"
-    },
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_lockedBy": [],
-    "duration": "",
-    "linkText": "View",
-    "_classes": "firstpage",
-    "body": "<p>This is the opening section to the course. It will introduce you to many of the topics relevant to harassment.</p>",
-    "displayTitle": "Opening Section",
-    "title": "Opening Section",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_bookmarking": {
-      "_isEnabled": false,
-      "_level": "page"
-    },
-    "_menuBypass": {
-      "_isEnabled": false
-    }
-  },
-  {
-    "_id": "5994dfe080d0738013d05e7f",
-    "_type": "menu",
     "_parentId": "course",
     "_graphic": {
       "alt": "",
-      "src": "http://pilotfire.com/wp-content/uploads/start-here.png"
+      "src": ""
     },
     "_isAvailable": true,
     "_isOptional": false,
     "_lockedBy": [],
     "duration": "",
-    "linkText": "View",
+    "linkText": "Begin Course",
     "_classes": "",
-    "body": "",
-    "displayTitle": "",
-    "title": "Start Course",
+    "body": "<p>This course aims to introduce you to many topics relevant to workplace harassment.</p>",
+    "displayTitle": "Harassment Prevention",
+    "title": "Harassment Prevention",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "page"
-    },
-    "_menuBypass": {
-      "_isEnabled": true
     }
   },
   {
-    "_id": "5970cb6f87aa48a40dea67af",
+    "_id": "59b056c2877987bc144d2b12",
     "_type": "page",
-    "_parentId": "5994dfe080d0738013d05e7f",
+    "_parentId": "course",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -72,24 +36,17 @@
     "linkText": "View",
     "_classes": "",
     "body": "<p>During this section, you will learn about what harassment is.</p>",
-    "displayTitle": "What is harassment?",
-    "title": "What is harassment?",
+    "displayTitle": "Section 2",
+    "title": "Section 2",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "page"
-    },
-    "_menuBypass": {
-      "_isEnabled": false
     }
   },
   {
-    "_id": "597a398995e5c7e40d947ec5",
+    "_id": "59b1457dfc94f1fc127eec5f",
     "_type": "page",
-    "_parentId": "5994dfe080d0738013d05e7f",
+    "_parentId": "course",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -101,24 +58,17 @@
     "linkText": "View",
     "_classes": "",
     "body": "<p>This section aims to cover many of the risk factors as well as warning signs present within harassment.</p>",
-    "displayTitle": "Risk Factors, Warning Signs, & Prevention",
-    "title": "Risk Factors, Warning Signs, & Prevention",
+    "displayTitle": "Section 3",
+    "title": "Section 3",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "page"
-    },
-    "_menuBypass": {
-      "_isEnabled": false
     }
   },
   {
-    "_id": "597a2f3e95e5c7e40d947e82",
+    "_id": "59b149fbfc94f1fc127eec6c",
     "_type": "page",
-    "_parentId": "5994dfe080d0738013d05e7f",
+    "_parentId": "course",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -130,24 +80,17 @@
     "linkText": "View",
     "_classes": "",
     "body": "<p>This section will cover many of the topics present within reporting and investigation of harassment.</p>",
-    "displayTitle": "Reporting & Investigation",
-    "title": "Reporting & Investigation",
+    "displayTitle": "Section 4",
+    "title": "Section 4",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "page"
-    },
-    "_menuBypass": {
-      "_isEnabled": false
     }
   },
   {
-    "_id": "5978d56695e5c7e40d947e6b",
+    "_id": "59b15eb2f880bbb009922f40",
     "_type": "page",
-    "_parentId": "5994dfe080d0738013d05e7f",
+    "_parentId": "course",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -164,13 +107,6 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "page"
-    },
-    "_menuBypass": {
-      "_isEnabled": false
     }
   }
 ]

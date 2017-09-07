@@ -5,11 +5,11 @@
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
   "__v": 0,
-  "_courseId": "596fa46988590d600a454a6c",
+  "_courseId": "59b02d0f436412cc14654cfd",
   "_drawer": {
-    "_duration": 400,
+    "_showEasing": "easeOutQuart",
     "_hideEasing": "easeInQuart",
-    "_showEasing": "easeOutQuart"
+    "_duration": 400
   },
   "_accessibility": {
     "_isTextProcessorEnabled": false,
@@ -18,60 +18,32 @@
     "_isEnabled": false
   },
   "screenSize": {
-    "large": 1024,
+    "small": 519,
     "medium": 759,
-    "small": 519
+    "large": 1024
   },
-  "_id": "596fa46988590d600a454a73",
+  "_id": "59b02d0f436412cc14654cff",
   "_trickle": {
-    "_completionAttribute": "_isInteractionComplete"
-  },
-  "_spoor": {
-    "_isEnabled": true,
-    "_tracking": {
-      "_requireCourseCompleted": true,
-      "_requireAssessmentPassed": false,
-      "_shouldSubmitScore": false,
-      "_shouldStoreResponses": false,
-      "_shouldRecordInteractions": true
-    },
-    "_reporting": {
-      "_onTrackingCriteriaMet": "completed",
-      "_onAssessmentFailure": "incomplete",
-      "_resetStatusOnLanguageChange": false
-    },
-    "_advancedSettings": {
-      "_showDebugWindow": false,
-      "_commitOnStatusChange": true,
-      "_timedCommitFrequency": 10,
-      "_maxCommitRetries": 5,
-      "_commitRetryDelay": 2000,
-      "_suppressErrors": false,
-      "_commitOnVisibilityChangeHidden": true
-    }
+    "_completionAttribute": "_isComplete"
   },
   "build": {
     "includes": [
       "adapt-theme-community",
       "adapt-contrib-boxMenu",
-      "adapt-menu-bypass",
-      "adapt-contrib-bookmarking",
       "adapt-contrib-tutor",
-      "adapt-contrib-assessment",
       "adapt-contrib-trickle",
       "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-spoor",
+      "adapt-contrib-text",
+      "adapt-contrib-graphic",
+      "adapt-contrib-mcq",
       "adapt-expose",
       "adapt-stacklist",
-      "adapt-contrib-text",
-      "adapt-contrib-mcq",
-      "adapt-contrib-graphic",
-      "adapt-contrib-flipcard",
-      "adapt-contrib-hotgraphic",
+      "adapt-next-button",
       "adapt-contrib-narrative",
       "adapt-contrib-accordion",
-      "adapt-next-button",
-      "adapt-contrib-textInput"
+      "adapt-contrib-hotgraphic",
+      "adapt-contrib-textInput",
+      "adapt-contrib-media"
     ]
   }
 }

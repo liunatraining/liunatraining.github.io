@@ -1,12 +1,142 @@
 [
   {
-    "_id": "596fa46988590d600a454a72",
+    "_id": "59b0374a436412cc14654d04",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "59b02d12436412cc14654d02",
+    "body": "<p>In order to proceed through this course, it is important that you press &quot;Continue&quot; at the bottom of the page once you have completed a section.</p><p>If you do not see &quot;Continue&quot; as an option, be sure to complete the entire section before proceeding.</p><p>Once you answer a question, a blue bar will pop up on the screen with feedback. Press on the &quot;X&quot; or press above or below the blue bar to dismiss it.</p>",
+    "displayTitle": "How to succeed in this course",
+    "title": "How to succeed in this course",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59b0374d436412cc14654d05",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "59b02d12436412cc14654d02",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "https://i.vimeocdn.com/portrait/8388487_300x300",
+      "small": "https://i.vimeocdn.com/portrait/8388487_300x300",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59b0395a436412cc14654d07",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "59b0394b436412cc14654d06",
+    "body": "<p>This is a practice question. The answer is &quot;yes&quot;.</p>",
+    "displayTitle": "Example Question 1",
+    "title": "Example Question 1",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Please select \"Yes\" as your answer and press submit.",
+    "_items": [
+      {
+        "text": "Yes",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "No",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Good job! That is correct.</p>",
+      "_incorrect": {
+        "final": "<p>This was not the correct answer.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59b0395e436412cc14654d08",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "59b0394b436412cc14654d06",
+    "body": "<p>After going through each section completely, you will be asked to take a review assessment to complete your training.</p><p>The first question provided is a practice question. Once you press &quot;submit&quot; you will be able to continue forward.</p>",
+    "displayTitle": "Instructions",
+    "title": "Instructions",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59b051dc877987bc144d2b05",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "596fa46988590d600a454a70",
+    "_parentId": "59b0517b877987bc144d2b03",
     "body": "<p>The purpose of this training is to create a safe and healthy working environment for everyone.</p>",
     "displayTitle": "",
-    "title": "Harassment is a serious offense.",
+    "title": "ExposeBoxes 1",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -65,13 +195,13 @@
     ]
   },
   {
-    "_id": "596faf3888590d600a454a78",
+    "_id": "59b0536a877987bc144d2b08",
     "_layout": "right",
     "_type": "component",
-    "_parentId": "596fae6d88590d600a454a76",
+    "_parentId": "59b05314877987bc144d2b06",
     "body": "",
     "displayTitle": "",
-    "title": "Stack List",
+    "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -97,100 +227,10 @@
     }
   },
   {
-    "_id": "596fb08788590d600a454a7a",
+    "_id": "59b0536d877987bc144d2b09",
     "_layout": "left",
     "_type": "component",
-    "_parentId": "596fb74188590d600a454a86",
-    "body": "<p>After going through each section completely, you will be asked to take a review assessment to complete your training.</p><p>The first question provided is a practice question. Once you press &quot;submit&quot; you will be able to continue forward.</p>",
-    "displayTitle": "Instructions",
-    "title": "Instructions",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "596fb78488590d600a454a87",
-    "_layout": "right",
-    "_type": "component",
-    "_parentId": "596fb74188590d600a454a86",
-    "body": "<p>This is a practice question. The answer is &quot;yes&quot;.</p>",
-    "displayTitle": "Example Question 1",
-    "title": "Example Question 1",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Please select \"Yes\" as your answer and press submit.",
-    "_items": [
-      {
-        "text": "Yes",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "No",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 2,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p>Good job! That is correct.</p>",
-      "_incorrect": {
-        "final": "<p>This was not the correct answer.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "5970c08187aa48a40dea67ae",
-    "_layout": "left",
-    "_type": "component",
-    "_parentId": "596fae6d88590d600a454a76",
+    "_parentId": "59b05314877987bc144d2b06",
     "body": "",
     "displayTitle": "",
     "title": "Component title",
@@ -210,13 +250,33 @@
     }
   },
   {
-    "_id": "5970cba887aa48a40dea67b2",
+    "_id": "59b053fb877987bc144d2b0e",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59b05397877987bc144d2b0a",
+    "body": "",
+    "displayTitle": "Continue",
+    "title": "Continue",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "next-button",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_hoverText": "",
+    "_requirePageCompletion": true,
+    "_skipMenus": true,
+    "_nextPage": ""
+  },
+  {
+    "_id": "59b13652fc94f1fc127eec50",
     "_layout": "left",
     "_type": "component",
-    "_parentId": "5970cb7087aa48a40dea67b1",
+    "_parentId": "59b056c2877987bc144d2b14",
     "body": "<p>Now that we have a little better understanding of harassment, let&rsquo;s look at Maria&rsquo;s case.</p><p>Maria was a six-year laborer at a site and had recently been promoted to supervisor.&nbsp; She was fired nine days after announcing that she was pregnant with twins.&nbsp;</p><p>Her employer claimed that he feared for her safety and the company&rsquo;s liability, even though Maria&rsquo;s doctor had cleared her without medical restriction.</p>",
     "displayTitle": "",
-    "title": "Component title",
+    "title": "Text",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -227,13 +287,13 @@
     "instruction": ""
   },
   {
-    "_id": "5970cbbe87aa48a40dea67b3",
+    "_id": "59b1365afc94f1fc127eec51",
     "_layout": "right",
     "_type": "component",
-    "_parentId": "5970cb7087aa48a40dea67b1",
+    "_parentId": "59b056c2877987bc144d2b14",
     "body": "<p>After reading&nbsp;about what happened to Maria, would you consider this case to be harassment?</p>",
     "displayTitle": "",
-    "title": "Question 2",
+    "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -257,7 +317,7 @@
     "_attempts": 1,
     "_canShowModelAnswer": false,
     "_canShowFeedback": true,
-    "_canShowMarking": false,
+    "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": false,
@@ -300,10 +360,172 @@
     }
   },
   {
-    "_id": "5970cdbd87aa48a40dea67b6",
+    "_id": "59b136dbfc94f1fc127eec53",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59b136b2fc94f1fc127eec52",
+    "body": "<p>Unwelcome conduct that is based on one or more of the following:</p>",
+    "displayTitle": "Once you have finished with this section, scroll down for more.",
+    "title": "Once you have finished with this section, scroll down for more.",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "expose",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on a topic for more detail.",
+    "_columns": 3,
+    "_animationType": "fade",
+    "_items": [
+      {
+        "front": "Race",
+        "back": {
+          "title": "",
+          "body": "<p>&bull;Person is of a certain race</p><p>&bull;Personal characteristics associated with race (such as hair texture, skin color, or certain facial features)</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Color",
+        "back": {
+          "title": "",
+          "body": "<p>&bull;Skin color complexion</p><p>&bull;Married to (or associated with) a person of a certain race or color</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "National Origin",
+        "back": {
+          "title": "",
+          "body": "<p>&bull;From a particular country or part of the world</p><p>&bull;Ethnicity or accent</p><p>&bull;Appear to be of a certain ethnic background (even if they are not)</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "59b137bbfc94f1fc127eec55",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59b13781fc94f1fc127eec54",
+    "body": "",
+    "displayTitle": "",
+    "title": "Expose 2 of 3",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "expose",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on a topic for more detail.",
+    "_columns": 3,
+    "_animationType": "fade",
+    "_items": [
+      {
+        "front": "Sex",
+        "back": {
+          "title": "",
+          "body": "<p>&bull;Gender including transgender</p><p>&bull;Unwelcome sexual advances</p><p>&bull;Requests for sexual favors</p><p>&bull;Other verbal or physical harassment of a sexual nature</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Sexual Orientation",
+        "back": {
+          "title": "",
+          "body": "<p>&bull;Protects lesbian, gay, bisexual, and transgender employees</p><p>&bull;Regardless of any contrary state or local laws</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Genetic Information",
+        "back": {
+          "title": "",
+          "body": "<p>&bull;Information about an individual&rsquo;s genetic tests</p><p>&bull;The genetic tests of a family member</p><p>&bull;The manifestation of a disease or disorder in a family member</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "59b13879fc94f1fc127eec57",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59b1385dfc94f1fc127eec56",
+    "body": "",
+    "displayTitle": "",
+    "title": "Expose 3 of 3",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "expose",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on a topic for more detail.",
+    "_columns": 3,
+    "_animationType": "fade",
+    "_items": [
+      {
+        "front": "Disability",
+        "back": {
+          "title": "",
+          "body": "<p>&bull;Regardless if disability is past, present, or believed to be</p><p>&bull;Relationship to someone disabled</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Religion",
+        "back": {
+          "title": "",
+          "body": "<p>&bull;Traditional, organized religions</p><p>&bull;Also, sincerely held religious, ethical or moral beliefs</p><p>&bull;Married to (or associated with) an individual of a particular religion</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Age",
+        "back": {
+          "title": "",
+          "body": "<p>&bull;Must be age 40 or older</p><p>&bull;Some states do protect younger</p><p>&bull;Not illegal to favor older over younger</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "59b13daffc94f1fc127eec59",
     "_layout": "left",
     "_type": "component",
-    "_parentId": "5970cdbd87aa48a40dea67b5",
+    "_parentId": "59b13d9ffc94f1fc127eec58",
     "body": "<p>Harassment is a term that you might have heard before, but what exactly falls into the category of harassment?&nbsp; Let&rsquo;s look at the following case study.</p><p>Matthew, a Filipino-American, worked as a laborer on a pipe laying crew for a little over a year.&nbsp;</p><p>A short while after starting the job, his white manager started calling Matthew names like &ldquo;non-white guy&rdquo;, &ldquo;spic&rdquo;, and &ldquo;monkey&rdquo;.&nbsp; After some time, Matthew went to the company&rsquo;s safety manager about the issue, and he was fired for his opposition.</p>",
     "displayTitle": "",
     "title": "Component title",
@@ -317,13 +539,13 @@
     "instruction": ""
   },
   {
-    "_id": "5970cdbd87aa48a40dea67b7",
+    "_id": "59b13e6bfc94f1fc127eec5a",
     "_layout": "right",
     "_type": "component",
-    "_parentId": "5970cdbd87aa48a40dea67b5",
+    "_parentId": "59b13d9ffc94f1fc127eec58",
     "body": "<p>After reading about what happened to Matthew, would you consider this case to be harassment?</p>",
     "displayTitle": "",
-    "title": "Question 1",
+    "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -347,7 +569,7 @@
     "_attempts": 1,
     "_canShowModelAnswer": false,
     "_canShowFeedback": true,
-    "_canShowMarking": false,
+    "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": false,
@@ -390,802 +612,154 @@
     }
   },
   {
-    "_id": "5970cedf87aa48a40dea67b9",
+    "_id": "59b13f95fc94f1fc127eec5c",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "5970cedc87aa48a40dea67b8",
-    "body": "<p>Unwelcome conduct that is based on one or more of the following:</p>",
-    "displayTitle": "Once you have finished with this section, scroll down for more",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "expose",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click on a topic for more detail.",
-    "_columns": 3,
-    "_animationType": "fade",
-    "_items": [
-      {
-        "front": "Race",
-        "back": {
-          "title": "",
-          "body": "<p>&bull;Person is of a certain race</p><p>&bull;Personal characteristics associated with race (such as hair texture, skin color, or certain facial features)</p>",
-          "_graphic": {
-            "alt": "",
-            "src": ""
-          }
-        }
-      },
-      {
-        "front": "Color",
-        "back": {
-          "title": "",
-          "body": "<p>&bull;Skin color complexion</p><p>&bull;Married to (or associated with) a person of a certain race or color</p>",
-          "_graphic": {
-            "alt": "",
-            "src": ""
-          }
-        }
-      },
-      {
-        "front": "National Origin",
-        "back": {
-          "title": "",
-          "body": "<p>&bull;From a particular country or part of the world</p><p>&bull;ethnicity or accent</p><p>&bull;appear to be of a certain ethnic background (even if they are not)</p>",
-          "_graphic": {
-            "alt": "",
-            "src": ""
-          }
-        }
-      }
-    ]
-  },
-  {
-    "_id": "5970dc9687aa48a40dea67bc",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "5970dc6f87aa48a40dea67ba",
+    "_parentId": "59b13ebffc94f1fc127eec5b",
     "body": "",
     "displayTitle": "",
-    "title": "Component title",
+    "title": "Harassment Gallery",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
-    "_component": "expose",
+    "_classes": "tertiary",
+    "_component": "narrative",
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "instruction": "Click on a topic for more detail.",
-    "_columns": 3,
-    "_animationType": "fade",
-    "_items": [
-      {
-        "front": "Sex",
-        "back": {
-          "title": "",
-          "body": "<p>&bull;Gender including transgender</p><p>&bull;Unwelcome sexual advances</p><p>&bull;Requests for sexual favors</p><p>&bull;Other verbal or physical harassment of a sexual nature</p>",
-          "_graphic": {
-            "alt": "",
-            "src": ""
-          }
-        }
-      },
-      {
-        "front": "Sexual Orientation",
-        "back": {
-          "title": "",
-          "body": "<p>&bull;Protects lesbian, gay, bisexual, and transgender employees</p><p>&bull;Regardless of any contrary state or local laws</p>",
-          "_graphic": {
-            "alt": "",
-            "src": ""
-          }
-        }
-      },
-      {
-        "front": "Genetic Information",
-        "back": {
-          "title": "",
-          "body": "<p>&bull;Information about an individual&rsquo;s genetic tests</p><p>&bull;the genetic tests of a family member</p><p>&bull;the manifestation of a disease or disorder in a family member</p>",
-          "_graphic": {
-            "alt": "",
-            "src": ""
-          }
-        }
-      }
-    ]
-  },
-  {
-    "_id": "5970dc9a87aa48a40dea67bd",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "5970dc7487aa48a40dea67bb",
-    "body": "",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "expose",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click on a topic for more detail.",
-    "_columns": 3,
-    "_animationType": "fade",
-    "_items": [
-      {
-        "front": "Disability",
-        "back": {
-          "title": "",
-          "body": "<p>&bull;Regardless if disability is past, present, or believed to be</p><p>&bull;Relationship to someone disabled</p>",
-          "_graphic": {
-            "alt": "",
-            "src": ""
-          }
-        }
-      },
-      {
-        "front": "Religion",
-        "back": {
-          "title": "",
-          "body": "<p>&bull;Traditional, organized religions</p><p>&bull;Also, sincerely held religious, ethical or moral beliefs</p><p>&bull;married to (or associated with) an individual of a particular religion</p>",
-          "_graphic": {
-            "alt": "",
-            "src": ""
-          }
-        }
-      },
-      {
-        "front": "Age (40 or older)",
-        "back": {
-          "title": "",
-          "body": "<p>&bull;Must be age 40 or older</p><p>&bull;Some states do protect younger</p><p>&bull;Not illegal to favor older over younger</p>",
-          "_graphic": {
-            "alt": "",
-            "src": ""
-          }
-        }
-      }
-    ]
-  },
-  {
-    "_id": "5972454587aa48a40dea67cd",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "5972453f87aa48a40dea67cc",
-    "body": "<p>You have successfully finished the first section of this lesson!</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
-    "displayTitle": "",
-    "title": "First Section Complete",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "59724f7187aa48a40dea680b",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "59724f6587aa48a40dea680a",
-    "body": "<p>Let&rsquo;s explore more about what conditions qualify as harassment legally.</p>",
-    "displayTitle": "",
-    "title": "Definition of Harassment (Continued)",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "flipcard",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click on the images to learn more.",
-    "_flipType": "allFlip",
-    "_flipTime": 400,
-    "_items": [
-      {
-        "frontImage": {
-          "alt": "",
-          "src": "http://dingo.care2.com/pictures/c2c/share/28/289/987/2898736_370.jpg"
-        },
-        "backTitle": "",
-        "backBody": "<p>Conduct that must be endured as a condition of continued employment</p>"
-      },
-      {
-        "frontImage": {
-          "alt": "",
-          "src": "http://stressipedia.com/post/2011/06/27/image.axd?picture=2011%2F7%2Fbad-work-environment.jpg"
-        },
-        "backTitle": "",
-        "backBody": "<p>Conduct that is severe or pervasive enough to create a work environment that a reasonable person would consider intimidating, hostile, or abusive</p>"
-      },
-      {
-        "frontImage": {
-          "alt": "",
-          "src": "http://lawtrack.com/wp-content/uploads/2015/03/discrimination-at-work.jpg"
-        },
-        "backTitle": "",
-        "backBody": "<p>Retaliation for filing a discrimination charge, testifying, or participating in any ways in an investigation, proceeding, or lawsuit under these laws; or opposing employment practices that they reasonably believe discriminate against individuals, in violation of these laws</p>"
-      }
-    ]
-  },
-  {
-    "_id": "5978d66995e5c7e40d947e6e",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "5978d56795e5c7e40d947e6d",
-    "body": "<p>Now that you have gone through all the sections, let&rsquo;s see how much you have learned.</p><p>Remember to read carefully and select the best answer.</p>",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "5978d6ce95e5c7e40d947e71",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "5978d67795e5c7e40d947e6f",
-    "body": "<p>Are all offensive remarks considered harassment?</p>",
-    "displayTitle": "Question #1",
-    "title": "Question #1",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Select the answer you believe is correct and press submit.",
-    "_items": [
-      {
-        "text": "Yes",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "No",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>Correct! Not all offensive remarks are considered harassment</strong></p>",
-      "_incorrect": {
-        "final": "<p><strong>Incorrect</strong></p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "5978d71395e5c7e40d947e73",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "5978d70c95e5c7e40d947e72",
-    "body": "<p>Does workplace harassment have to occur at work?</p>",
-    "displayTitle": "Question #2",
-    "title": "Question #2",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Select the answer you believe is correct and press submit.",
-    "_items": [
-      {
-        "text": "Yes",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "No",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>Correct! Workplace harassment can happen anywhere.</strong></p>",
-      "_incorrect": {
-        "final": "<p><strong>Incorrect</strong></p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "5978d75b95e5c7e40d947e75",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "5978d75195e5c7e40d947e74",
-    "body": "<p>Is it illegal for an employer to take action against you because you have filed a claim?</p>",
-    "displayTitle": "Question #3",
-    "title": "Question #3",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Select the answer you believe is correct and press submit.",
-    "_items": [
-      {
-        "text": "Yes",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "No",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>Correct, you cannot be harassed for filing a complaint.</strong></p>",
-      "_incorrect": {
-        "final": "<p><strong>Incorrect</strong></p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "5978d79495e5c7e40d947e77",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "5978d78a95e5c7e40d947e76",
-    "body": "<p>Which of the following is an appropriate response when you witness harassment?</p>",
-    "displayTitle": "Question #4",
-    "title": "Question #4",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Select the answer you believe is correct and press submit.",
-    "_items": [
-      {
-        "text": "A.   Help the victim retaliate against the culprit",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "B.    File a written complaint with your Apprenticeship Coordinator",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "C.   Tell your other coworkers about the harasser and confronting them as a group",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "D.   Do not engage and allow them to work it out",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>Correct!</strong></p>",
-      "_incorrect": {
-        "final": "<p><strong>Incorrect</strong></p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "5978d80095e5c7e40d947e79",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "5978d7d095e5c7e40d947e78",
-    "body": "<p>True or False:&nbsp; If everyone is laughing and having a good time, then what I&rsquo;m doing is okay.</p>",
-    "displayTitle": "Question #5",
-    "title": "Question #5",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Select the answer you believe is correct and press submit.",
-    "_items": [
-      {
-        "text": "True",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "False",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>Correct! This is false, just because people seem like they are okay with what you are doing, doesn&rsquo;t mean they actually are.</strong></p>",
-      "_incorrect": {
-        "final": "<p><strong>Incorrect.</strong></p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "597a337895e5c7e40d947e87",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "597a2f3e95e5c7e40d947e84",
-    "body": "",
-    "displayTitle": "",
-    "title": "Hot Graphic",
-    "_isAvailable": true,
-    "_isOptional": true,
-    "_classes": "",
-    "_component": "hotgraphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click on the pins to learn more",
-    "_graphic": {
-      "src": "http://preview-templates.biztreeapps.com/thumbnails_size/460px/26184.png",
-      "alt": "",
-      "attribution": ""
-    },
-    "mobileBody": "",
+    "instruction": "Select the arrow to find out more.",
     "mobileInstruction": "",
-    "_hidePagination": false,
-    "_canCycleThroughPagination": false,
-    "_useGraphicsAsPins": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
     "_items": [
       {
-        "title": "Address",
-        "body": "<p>&bull;Addressed to Apprenticeship Coordinator</p><p>&bull;If you are not satisfied with the outcome or wish to file the report with another party, you can make your claim to the Registration Agency or the EEOC.</p>",
-        "strapline": "Address",
+        "title": "",
+        "body": "<p>Conduct that must be endured as a condition of continued employment</p>",
         "_graphic": {
-          "src": "http://icons.iconarchive.com/icons/elegantthemes/beautiful-flat-one-color/128/magnifying-glass-icon.png",
+          "src": "http://dingo.care2.com/pictures/c2c/share/28/289/987/2898736_370.jpg",
           "alt": "",
-          "attribution": "",
-          "title": "",
-          "_classes": ""
+          "attribution": ""
         },
-        "_classes": "",
-        "_left": 13,
-        "_top": 14
+        "strapline": "1"
       },
       {
-        "title": "Identity of the Harasser",
-        "body": "<p>&bull;Addressed to Apprenticeship Coordinator</p><p>&bull;If you are not satisfied with the outcome or wish to file the report with another party, you can make your claim to the Registration Agency or the EEOC.</p>",
-        "strapline": "Identity",
+        "title": "",
+        "body": "<p>Conduct that is severe or pervasive enough to create a work environment that a reasonable person would consider intimidating, hostile, or abusive</p>",
         "_graphic": {
-          "src": "http://icons.iconarchive.com/icons/elegantthemes/beautiful-flat-one-color/128/magnifying-glass-icon.png",
+          "src": "http://stressipedia.com/post/2011/06/27/image.axd?picture=2011%2F7%2Fbad-work-environment.jpg",
           "alt": "",
-          "attribution": "",
-          "title": "",
-          "_classes": ""
+          "attribution": ""
         },
-        "_classes": "",
-        "_left": 15,
-        "_top": 26
+        "strapline": "2"
       },
       {
-        "title": "Short Description",
-        "body": "<p>&bull;When has it occurred?</p><p>&bull;What happened?</p><p>&bull;Why you consider it to be harassment</p>",
-        "strapline": "Describe",
+        "title": "",
+        "body": "<p>Retaliation for filing a discrimination charge, testifying, or participating in any ways in an investigation, proceeding, or lawsuit under these laws; or opposing employment practices that they reasonably believe discriminate against individuals, in violation of these laws</p>",
         "_graphic": {
-          "src": "http://icons.iconarchive.com/icons/elegantthemes/beautiful-flat-one-color/128/magnifying-glass-icon.png",
+          "src": "http://lawtrack.com/wp-content/uploads/2015/03/discrimination-at-work.jpg",
           "alt": "",
-          "attribution": "",
-          "title": "",
-          "_classes": ""
+          "attribution": ""
         },
-        "_classes": "",
-        "_left": 12,
-        "_top": 40
-      },
-      {
-        "title": "Your Information",
-        "body": "<p>&bull;Name</p><p>&bull;Address</p><p>&bull;Telephone (or other means of contact)</p>",
-        "strapline": "Info",
-        "_graphic": {
-          "src": "http://icons.iconarchive.com/icons/elegantthemes/beautiful-flat-one-color/128/magnifying-glass-icon.png",
-          "alt": "",
-          "attribution": "",
-          "title": "",
-          "_classes": ""
-        },
-        "_classes": "",
-        "_left": 11,
-        "_top": 76
-      },
-      {
-        "title": "Your Signature",
-        "body": "<p>Include your signature at the end</p>",
-        "strapline": "Signature",
-        "_graphic": {
-          "src": "http://icons.iconarchive.com/icons/elegantthemes/beautiful-flat-one-color/128/magnifying-glass-icon.png",
-          "alt": "",
-          "attribution": "",
-          "title": "",
-          "_classes": ""
-        },
-        "_classes": "",
-        "_left": 24,
-        "_top": 85
+        "strapline": "3"
       }
     ]
   },
   {
-    "_id": "597a341395e5c7e40d947e89",
+    "_id": "59b1411cfc94f1fc127eec5e",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "597a340d95e5c7e40d947e88",
-    "body": "<p>If you ever feel you are being harassed or witness harassment, it is important that you report it to your Apprenticeship Coordinator.&nbsp; Each Coordinator might have a different anti-harassment policy, but listed here is common method of reporting.</p>",
-    "displayTitle": "Reporting Harassment",
-    "title": "Reporting Harassment",
+    "_parentId": "59b1410ffc94f1fc127eec5d",
+    "body": "",
+    "displayTitle": "Continue",
+    "title": "Continue",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
-    "_component": "text",
+    "_component": "next-button",
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "instruction": ""
+    "_hoverText": "",
+    "_requirePageCompletion": true,
+    "_skipMenus": true,
+    "_nextPage": ""
   },
   {
-    "_id": "597a37ae95e5c7e40d947e8b",
+    "_id": "59b145a0fc94f1fc127eec62",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "597a378e95e5c7e40d947e8a",
-    "body": "<p>After you have submitted your complaint, here are the steps that happen next.&nbsp; Again, each Coordinator might have a different anti-harassment policy, but these are the common steps.</p>",
-    "displayTitle": "Investigation Steps",
-    "title": "StackList",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "stacklist",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the button below to continue.",
-    "_items": [
-      {
-        "body": "<p>Coordinator will provide notice of receiving the complaint</p>"
-      },
-      {
-        "body": "<p>You will be contacted if there are any further questions</p>"
-      },
-      {
-        "body": "<p>Coordinator will initiate a thorough investigation</p>"
-      },
-      {
-        "body": "<p>Both parties will be notified of the findings</p>"
-      },
-      {
-        "body": "<p>If a violation is found, a quick resolution</p>"
-      }
-    ],
-    "_button": {
-      "startText": "Click here to begin",
-      "continueText": "Next"
-    }
-  },
-  {
-    "_id": "597a38da95e5c7e40d947e8e",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "597a38c895e5c7e40d947e8d",
-    "body": "<p>Here&rsquo;s what you have seen:</p><ul><li>How to file a harassment complaint</li><li>What happens after you file a complaint</li><li>Possible outcomes for the harasser</li></ul><p>You have completed this section.</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
+    "_parentId": "59b1457dfc94f1fc127eec61",
+    "body": "",
     "displayTitle": "",
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
-    "_component": "text",
+    "_component": "narrative",
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "instruction": ""
+    "instruction": "Select the arrow to find out more",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Lack of Diversity</p>",
+        "_graphic": {
+          "src": "http://insights.dice.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-09-at-10.22.37-AM.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "1"
+      },
+      {
+        "title": "",
+        "body": "<p>Cultural and language differences</p>",
+        "_graphic": {
+          "src": "http://blog.bridge-global.com/wp-content/uploads/2010/11/cultdiff.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "2"
+      },
+      {
+        "title": "",
+        "body": "<p>Jobsites that encourage drinking</p>",
+        "_graphic": {
+          "src": "http://djcoregon.com/files/2010/07/0709_hot_weather_construction_walsh_5.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "3"
+      },
+      {
+        "title": "",
+        "body": "<p>Places with significant job power disparities</p>",
+        "_graphic": {
+          "src": "http://pamplinmedia.com/images/artimg/00003571231593.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "4"
+      },
+      {
+        "title": "",
+        "body": "<p>Isolated/Distant sites</p>",
+        "_graphic": {
+          "src": "https://gemoomay.files.wordpress.com/2014/11/isolation_by_vallyncia.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "5"
+      }
+    ]
   },
   {
-    "_id": "597a39c695e5c7e40d947ec8",
+    "_id": "59b14685fc94f1fc127eec64",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "597a398995e5c7e40d947ec7",
+    "_parentId": "59b1466cfc94f1fc127eec63",
     "body": "",
     "displayTitle": "",
     "title": "Component title",
@@ -1206,27 +780,29 @@
         "body": "<p>These could include, but are not limited to:</p><ul><li>Tardiness</li><li>Absenteeism</li><li>Mood swings</li><li>Isolation</li><li>Not talking</li></ul>",
         "_graphic": {
           "src": "https://unhealthyrelationships.files.wordpress.com/2011/02/angry-man.png",
-          "alt": ""
+          "alt": "",
+          "attribution": ""
         },
-        "strapline": "Behavior"
+        "strapline": "1"
       },
       {
         "title": "Avoidance or Uncomfortable",
         "body": "<p>If you notice that one worker shrinks or shies away from another worker or manager all the time, they might be avoiding a situation where they are harassed.</p>",
         "_graphic": {
           "src": "http://media.istockphoto.com/photos/man-lost-in-depression-sitting-on-ground-street-subway-tunnel-picture-id515010131?k=6&m=515010131&s=612x612&w=0&h=amkKZqwZJg7mXkrUGSFbPYEn8S6V2ADsKWUjLC4pfbQ=",
-          "alt": ""
+          "alt": "",
+          "attribution": ""
         },
-        "strapline": "Avoid"
+        "strapline": "2"
       }
     ]
   },
   {
-    "_id": "597a3b4295e5c7e40d947eca",
+    "_id": "59b147b6fc94f1fc127eec66",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "597a3afe95e5c7e40d947ec9",
-    "body": "<p>Now some of the risk factors that lead to harassment, let&rsquo;s focus on ways of preventing or stopping it.</p>",
+    "_parentId": "59b14738fc94f1fc127eec65",
+    "body": "",
     "displayTitle": "",
     "title": "Component title",
     "_isAvailable": true,
@@ -1269,13 +845,192 @@
         "_classes": ""
       }
     ],
-    "_shouldCollapseItems": true
+    "_shouldCollapseItems": false
   },
   {
-    "_id": "597a3c1095e5c7e40d947ecc",
+    "_id": "59b14a75fc94f1fc127eec6f",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "597a3bfc95e5c7e40d947ecb",
+    "_parentId": "59b149fbfc94f1fc127eec6e",
+    "body": "",
+    "displayTitle": "Example Harassment Report",
+    "title": "Example Harassment Report",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "hotgraphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the pins to learn more",
+    "_graphic": {
+      "src": "http://preview-templates.biztreeapps.com/thumbnails_size/460px/26184.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": true,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "Address",
+        "body": "<p>&bull;Addressed to Apprenticeship Coordinator</p><p>&bull;If you are not satisfied with the outcome or wish to file the report with another party, you can make your claim to the Registration Agency or the EEOC.</p>",
+        "strapline": "1",
+        "_graphic": {
+          "src": "http://icons.iconarchive.com/icons/elegantthemes/beautiful-flat-one-color/128/magnifying-glass-icon.png",
+          "alt": "",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 13,
+        "_top": 14
+      },
+      {
+        "title": "Identity of the Harasser",
+        "body": "<p>&bull;Addressed to Apprenticeship Coordinator</p><p>&bull;If you are not satisfied with the outcome or wish to file the report with another party, you can make your claim to the Registration Agency or the EEOC.</p>",
+        "strapline": "2",
+        "_graphic": {
+          "src": "http://icons.iconarchive.com/icons/elegantthemes/beautiful-flat-one-color/128/magnifying-glass-icon.png",
+          "alt": "",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 15,
+        "_top": 26
+      },
+      {
+        "title": "Short Description",
+        "body": "<p>&bull;When has it occurred?</p><p>&bull;What happened?</p><p>&bull;Why you consider it to be harassment</p>",
+        "strapline": "3",
+        "_graphic": {
+          "src": "http://icons.iconarchive.com/icons/elegantthemes/beautiful-flat-one-color/128/magnifying-glass-icon.png",
+          "alt": "",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 12,
+        "_top": 40
+      },
+      {
+        "title": "Your Information",
+        "body": "<p>&bull;Name</p><p>&bull;Address</p><p>&bull;Telephone (or other means of contact)</p>",
+        "strapline": "4",
+        "_graphic": {
+          "src": "http://icons.iconarchive.com/icons/elegantthemes/beautiful-flat-one-color/128/magnifying-glass-icon.png",
+          "alt": "",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 11,
+        "_top": 76
+      },
+      {
+        "title": "Your Signature",
+        "body": "<p>Include your signature at the end</p>",
+        "strapline": "5",
+        "_graphic": {
+          "src": "http://icons.iconarchive.com/icons/elegantthemes/beautiful-flat-one-color/128/magnifying-glass-icon.png",
+          "alt": "",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 24,
+        "_top": 85
+      }
+    ]
+  },
+  {
+    "_id": "59b15a0efc94f1fc127eec71",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59b159fbfc94f1fc127eec70",
+    "body": "<p>If you ever feel you are being harassed or witness harassment, it is important that you report it to your Apprenticeship Coordinator.&nbsp;</p><p>Each Coordinator might have a different anti-harassment policy, but listed here is common method of reporting.</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59b15ceff880bbb009922f36",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59b15cdff880bbb009922f35",
+    "body": "<p>After you have submitted your complaint, here are the steps that happen next.&nbsp; Again, each Coordinator might have a different anti-harassment policy, but these are the common steps.</p>",
+    "displayTitle": "Investigation Steps",
+    "title": "Investigation Steps",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "stacklist",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the button below to continue.",
+    "_items": [
+      {
+        "body": "<p>Coordinator will provide notice of receiving the complaint</p>"
+      },
+      {
+        "body": "<p>You will be contacted if there are any further questions</p>"
+      },
+      {
+        "body": "<p>Coordinator will initiate a thorough investigation</p>"
+      },
+      {
+        "body": "<p>Both parties will be notified of the findings</p>"
+      },
+      {
+        "body": "<p>If a violation is found, a quick resolution</p>"
+      }
+    ],
+    "_button": {
+      "startText": "Click here to begin",
+      "continueText": "Next"
+    }
+  },
+  {
+    "_id": "59b15da5f880bbb009922f3b",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59b15da0f880bbb009922f3a",
+    "body": "",
+    "displayTitle": "Continue",
+    "title": "Continue",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "next-button",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_hoverText": "",
+    "_requirePageCompletion": true,
+    "_skipMenus": true,
+    "_nextPage": ""
+  },
+  {
+    "_id": "59b15dbcf880bbb009922f3c",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59b14848fc94f1fc127eec67",
     "body": "<ul><li>Some of the Risk Factors that can lead to harassment</li><li>Warning Signs that you or someone is being harassed</li><li>Prevention techniques and ways to stop harassment</li></ul><p>You have completed this section.</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
     "displayTitle": "Here’s what you have seen:",
     "title": "Here’s what you have seen:",
@@ -1289,208 +1044,439 @@
     "instruction": ""
   },
   {
-    "_id": "597a3deb95e5c7e40d947ed1",
+    "_id": "59b15e1af880bbb009922f3d",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "597a3c4c95e5c7e40d947ecd",
-    "body": "",
-    "displayTitle": "Click on the images to learn more.",
-    "title": "Click on the images to learn more.",
+    "_parentId": "59b15d2af880bbb009922f37",
+    "body": "<ul><li>How to file a harassment complaint</li><li>What happens after you file a complaint</li><li>Possible outcomes for the harasser</li></ul><p>You have completed this section.</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
+    "displayTitle": "Here’s what you have seen:",
+    "title": "Here’s what you have seen:",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
-    "_component": "flipcard",
+    "_component": "text",
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "instruction": "",
-    "_flipType": "allFlip",
-    "_flipTime": 100,
+    "instruction": ""
+  },
+  {
+    "_id": "59b15e2ef880bbb009922f3f",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59b15e2af880bbb009922f3e",
+    "body": "",
+    "displayTitle": "Continue",
+    "title": "Continue",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "next-button",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_hoverText": "",
+    "_requirePageCompletion": true,
+    "_skipMenus": true,
+    "_nextPage": ""
+  },
+  {
+    "_id": "59b15ecaf880bbb009922f43",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59b15eb2f880bbb009922f42",
+    "body": "<p>Now that you have gone through all the sections, let&rsquo;s see how much you have learned.</p><p>Remember to read carefully and select the best answer.</p>",
+    "displayTitle": "",
+    "title": "Instruction Text",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59b15ee5f880bbb009922f48",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59b15ed9f880bbb009922f44",
+    "body": "",
+    "displayTitle": "Are all offensive remarks considered harassment?",
+    "title": "Are all offensive remarks considered harassment?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select the answer you believe is correct and press submit.",
     "_items": [
       {
-        "frontImage": {
-          "alt": "Lack of Diversity",
-          "src": "http://insights.dice.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-09-at-10.22.37-AM.png"
-        },
-        "backTitle": "Lack of Diversity",
-        "backBody": ""
+        "text": "Yes",
+        "_shouldBeSelected": false,
+        "feedback": ""
       },
       {
-        "frontImage": {
-          "alt": "Cultural and language differences",
-          "src": "http://blog.bridge-global.com/wp-content/uploads/2010/11/cultdiff.jpg"
-        },
-        "backTitle": "Cultural and language differences",
-        "backBody": ""
-      },
-      {
-        "frontImage": {
-          "alt": "Jobsites that encourage drinking",
-          "src": "http://djcoregon.com/files/2010/07/0709_hot_weather_construction_walsh_5.jpg"
-        },
-        "backTitle": "Jobsites that encourage drinking",
-        "backBody": ""
-      },
-      {
-        "frontImage": {
-          "alt": "Places with significant job power disparities",
-          "src": "http://pamplinmedia.com/images/artimg/00003571231593.jpg"
-        },
-        "backTitle": "Places with significant job power disparities",
-        "backBody": ""
-      },
-      {
-        "frontImage": {
-          "alt": "Isolated/Distant sites",
-          "src": "https://gemoomay.files.wordpress.com/2014/11/isolation_by_vallyncia.jpg"
-        },
-        "backTitle": "Isolated/Distant sites",
-        "backBody": ""
+        "text": "No",
+        "_shouldBeSelected": true,
+        "feedback": ""
       }
-    ]
-  },
-  {
-    "_id": "597b840695e5c7e40d947ed7",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "597b83f695e5c7e40d947ed6",
-    "body": "<p>You have completed this section.</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That is correct,&nbsp;not all offensive remarks are considered harassment.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
     },
-    "instruction": ""
-  },
-  {
-    "_id": "597b8f6695e5c7e40d947ed9",
-    "_layout": "right",
-    "_type": "component",
-    "_parentId": "597b8f4595e5c7e40d947ed8",
-    "body": "<p>In order to proceed through this course, it is important that you press &quot;Continue&quot; at the bottom of the page once you have completed a section.</p><p>If you do not see &quot;Continue&quot; as an option, be sure to complete the entire section before proceeding.</p><p>Once you answer a question, a blue bar will pop up on the screen with feedback. Press on the &quot;X&quot; or press above or below the blue bar to dismiss it.</p>",
-    "displayTitle": "How to succeed in this course",
-    "title": "How to succeed in this course",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "597b906395e5c7e40d947eda",
-    "_layout": "left",
-    "_type": "component",
-    "_parentId": "597b8f4595e5c7e40d947ed8",
-    "body": "",
-    "displayTitle": "",
-    "title": "Liuna Logo",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "https://i.vimeocdn.com/portrait/8388487_300x300",
-      "small": "https://i.vimeocdn.com/portrait/8388487_300x300",
-      "attribution": ""
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
     }
   },
   {
-    "_id": "597f3197403365a41099a392",
+    "_id": "59b15eebf880bbb009922f49",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "597f321d403365a41099a393",
+    "_parentId": "59b15edbf880bbb009922f45",
     "body": "",
-    "displayTitle": "Continue",
-    "title": "Continue",
+    "displayTitle": "Does workplace harassment have to occur at work?",
+    "title": "Does workplace harassment have to occur at work?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
-    "_component": "next-button",
+    "_component": "mcq",
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "_hoverText": "Next Page",
-    "_requirePageCompletion": false,
-    "_skipMenus": true,
-    "_nextPage": ""
+    "instruction": "Select the answer you believe is correct and press submit.",
+    "_items": [
+      {
+        "text": "Yes",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "No",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Correct! Workplace harassment can happen anywhere.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
   },
   {
-    "_id": "597f327b403365a41099a395",
+    "_id": "59b15ef1f880bbb009922f4a",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "597f3269403365a41099a394",
+    "_parentId": "59b15edcf880bbb009922f46",
     "body": "",
-    "displayTitle": "Continue",
-    "title": "Continue",
+    "displayTitle": "Is it illegal for an employer to take action against you because you have filed a claim?",
+    "title": "Is it illegal for an employer to take action against you because you have filed a claim?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
-    "_component": "next-button",
+    "_component": "mcq",
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "_hoverText": "",
-    "_requirePageCompletion": false,
-    "_skipMenus": true,
-    "_nextPage": ""
+    "instruction": "Select the answer you believe is correct and press submit.",
+    "_items": [
+      {
+        "text": "Yes",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "No",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Correct, you cannot be harassed for filing a complaint.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
   },
   {
-    "_id": "597f3298403365a41099a397",
+    "_id": "59b15ef5f880bbb009922f4b",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "597f328a403365a41099a396",
+    "_parentId": "59b15edcf880bbb009922f47",
     "body": "",
-    "displayTitle": "Continue",
-    "title": "Continue",
+    "displayTitle": "Which of the following is an appropriate response when you witness harassment?",
+    "title": "Which of the following is an appropriate response when you witness harassment?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
-    "_component": "next-button",
+    "_component": "mcq",
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "_hoverText": "",
-    "_requirePageCompletion": false,
-    "_skipMenus": true,
-    "_nextPage": ""
+    "instruction": "",
+    "_items": [
+      {
+        "text": "A.   Help the victim retaliate against the culprit",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "B.    File a written complaint with your Apprenticeship Coordinator",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "C.   Tell your other coworkers about the harasser and confronting them as a group",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "D.   Do not engage and allow them to work it out",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Correct!</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
   },
   {
-    "_id": "597f32ab403365a41099a399",
+    "_id": "59b15fb1f880bbb009922f4d",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "597f32a1403365a41099a398",
+    "_parentId": "59b15fa0f880bbb009922f4c",
     "body": "",
-    "displayTitle": "Continue",
-    "title": "Continue",
+    "displayTitle": "True or False:  If everyone is laughing and having a good time, then what I’m doing is okay.",
+    "title": "True or False:  If everyone is laughing and having a good time, then what I’m doing is okay.",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
-    "_component": "next-button",
+    "_component": "mcq",
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "_hoverText": "",
-    "_requirePageCompletion": false,
-    "_skipMenus": true,
-    "_nextPage": ""
+    "instruction": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Correct, just because people seem like they are okay with what you are doing, doesn&rsquo;t mean they actually are.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
   },
   {
-    "_id": "5983129f403365a41099a3eb",
+    "_id": "59b161c5f880bbb009922f4f",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59831258403365a41099a3e9",
+    "_parentId": "59b161b4f880bbb009922f4e",
     "body": "",
     "displayTitle": "Registration",
     "title": "Registration",
@@ -1566,6 +1552,51 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59b162e8f880bbb009922f53",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59b1623cf880bbb009922f50",
+    "body": "",
+    "displayTitle": "Well done",
+    "title": "Well done",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=ugAZHa80Ujk",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "60%",
+    "_allowFullScreen": true,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
     }
   }
 ]
