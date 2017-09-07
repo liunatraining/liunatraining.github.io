@@ -42,8 +42,7 @@
       "adapt-contrib-narrative",
       "adapt-contrib-accordion",
       "adapt-contrib-hotgraphic",
-      "adapt-contrib-textInput",
-      "adapt-contrib-media"
+      "adapt-contrib-textInput"
     ]
   }
 }

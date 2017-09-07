@@ -1555,48 +1555,20 @@
     }
   },
   {
-    "_id": "59b162e8f880bbb009922f53",
+    "_id": "59b165def880bbb009922f54",
     "_layout": "full",
     "_type": "component",
     "_parentId": "59b1623cf880bbb009922f50",
-    "body": "",
+    "body": "<p>You have successfully completed the exercise.</p>",
     "displayTitle": "Well done",
     "title": "Well done",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
-    "_component": "media",
+    "_component": "text",
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "instruction": "",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://www.youtube.com/watch?v=ugAZHa80Ujk",
-      "type": "video/youtube",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "inview",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": false,
-    "_startVolume": "60%",
-    "_allowFullScreen": true,
-    "_playsinline": false,
-    "_preventForwardScrubbing": false,
-    "_transcript": {
-      "_setCompletionOnView": false,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    }
+    "instruction": ""
   }
 ]
