@@ -297,7 +297,7 @@
       "_scrollTo": "@block +1",
       "_button": {
         "_isEnabled": true,
-        "_styleBeforeCompletion": "visible",
+        "_styleBeforeCompletion": "hidden",
         "_styleAfterClick": "hidden",
         "_isFullWidth": true,
         "_autoHide": true,
@@ -309,7 +309,7 @@
       },
       "_stepLocking": {
         "_isEnabled": true,
-        "_isCompletionRequired": false,
+        "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
     }

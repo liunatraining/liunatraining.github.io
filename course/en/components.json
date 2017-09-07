@@ -869,7 +869,7 @@
       "attribution": ""
     },
     "mobileBody": "",
-    "mobileInstruction": "",
+    "mobileInstruction": "<p>Press the &quot;+&quot; symbol to learn more about what to include in the letter for each topic.</p><p>Go through each object before continuing.</p>",
     "_hidePagination": false,
     "_canCycleThroughPagination": true,
     "_useGraphicsAsPins": false,
@@ -939,7 +939,7 @@
         "body": "<p>Include your signature at the end</p>",
         "strapline": "Your Signature",
         "_graphic": {
-          "src": "http://www.prsguitars.com/imgs/signatureclub/logo_sigclub.png",
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgjflzyVOBLXLJEmG0r0ndQCD6CNouVQpB6iU96N4-vJ7t1LOlNg",
           "alt": "",
           "attribution": "",
           "title": "",
@@ -1076,7 +1076,7 @@
       "_isEnabled": true
     },
     "_hoverText": "",
-    "_requirePageCompletion": true,
+    "_requirePageCompletion": false,
     "_skipMenus": true,
     "_nextPage": ""
   },
