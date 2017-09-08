@@ -117,7 +117,7 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "59b0394b436412cc14654d06",
-    "body": "<p>After going through each section completely, you will be asked to take a review assessment to complete your training.</p><p>The first question provided is a practice question. Once you press &quot;submit&quot; you will be able to continue forward.</p>",
+    "body": "<p>After completing each section, you will be asked to take a short quiz in order to finalize your training in that topic area.</p><p>Please note that the first question provided is a practice question.</p><p>It is meant as a resource to help ensure you better understand how to do the assessment. You may continue to the next step by pressing the &ldquo;continue&rdquo; button&nbsp;when ready.</p>",
     "displayTitle": "Instructions",
     "title": "Instructions",
     "_isAvailable": true,
@@ -144,12 +144,12 @@
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "instruction": "Click the boxes to reveal more information about the different ways in which people can be harassed.",
+    "instruction": "Click the boxes to reveal more information about the different types of harassment individuals may experience on the job.",
     "_columns": 4,
     "_animationType": "flipUp",
     "_items": [
       {
-        "front": "Mentally",
+        "front": "Mental",
         "back": {
           "title": "",
           "body": "<p>Leave lasting emotional damage</p>",
@@ -160,10 +160,10 @@
         }
       },
       {
-        "front": "Physically",
+        "front": "Physical",
         "back": {
           "title": "",
-          "body": "<p>Stress and physical abuse can be a result</p>",
+          "body": "<p>Stress and physical abuse may result</p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -171,7 +171,7 @@
         }
       },
       {
-        "front": "Economically",
+        "front": "Economic",
         "back": {
           "title": "",
           "body": "<p>It can cost both the harasser and the employer large amounts of money</p>",
@@ -787,7 +787,7 @@
       },
       {
         "title": "Avoidance or Uncomfortable",
-        "body": "<p>If you notice that one worker shrinks or shies away from another worker or manager all the time, they might be avoiding a situation where they are harassed.</p>",
+        "body": "<p>If you notice that a worker shrinks or shies away from a co-worker or manager all the time, they might be avoiding a situation where they are being harassed.</p>",
         "_graphic": {
           "src": "course/en/assets/ca443719be1e75963146c0676e009cdef239bc77.jpg",
           "alt": "",
@@ -891,7 +891,7 @@
       },
       {
         "title": "Identity of the Harasser",
-        "body": "<p>&bull;Addressed to Apprenticeship Coordinator</p><p>&bull;If you are not satisfied with the outcome or wish to file the report with another party, you can make your claim to the Registration Agency or the EEOC.</p>",
+        "body": "<ul><li><strong>CONTENT REQUIRED</strong></li></ul>",
         "strapline": "Identity of the Harasser",
         "_graphic": {
           "src": "http://1.bp.blogspot.com/-XZhJ92-8n0g/UKNqre3PCbI/AAAAAAAAAbY/b8n0bAx-Z0I/s1600/identity.png",
@@ -956,7 +956,7 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "59b159fbfc94f1fc127eec70",
-    "body": "<p>If you ever feel you are being harassed or witness harassment, it is important that you report it to your Apprenticeship Coordinator.&nbsp;</p><p>Each Coordinator might have a different anti-harassment policy, but listed here is common method of reporting.</p>",
+    "body": "<p>If you ever feel you are being harassed or witness harassment, it is important that you report it to your Apprenticeship Coordinator.&nbsp;</p><p>Each Coordinator might have a different anti-harassment policy, but listed below is common method of reporting.</p>",
     "displayTitle": "",
     "title": "Component title",
     "_isAvailable": true,
@@ -998,7 +998,7 @@
         "body": "<p>Both parties will be notified of the findings</p>"
       },
       {
-        "body": "<p>If a violation is found, a quick resolution</p>"
+        "body": "<p>If a violation is found, a quick resolution will be&nbsp;sought and implemented</p>"
       }
     ],
     "_button": {
@@ -1048,7 +1048,7 @@
     "_layout": "full",
     "_type": "component",
     "_parentId": "59b15d2af880bbb009922f37",
-    "body": "<ul><li>How to file a harassment complaint</li><li>What happens after you file a complaint</li><li>Possible outcomes for the harasser</li></ul><p>You have completed this section.</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
+    "body": "<ul><li>How to file a harassment complaint</li><li>What happens after you file a complaint</li></ul><p>You have completed this section.</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
     "displayTitle": "Here’s what you have seen:",
     "title": "Here’s what you have seen:",
     "_isAvailable": true,
