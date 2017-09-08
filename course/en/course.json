@@ -78,14 +78,8 @@
     }
   },
   "_start": {
-    "_isEnabled": true,
-    "_startIds": [
-      {
-        "_id": "59b02d12436412cc14654d00",
-        "_skipIfComplete": false,
-        "_className": ""
-      }
-    ],
+    "_isEnabled": false,
+    "_startIds": [],
     "_force": false,
     "_isMenuDisabled": false
   },
@@ -93,29 +87,29 @@
   "_lockType": "",
   "_classes": "",
   "_buttons": {
-    "disabledAriaLabel": "This button is disabled at the moment",
-    "remainingAttemptText": "final attempt",
-    "remainingAttemptsText": "remaining attempts",
-    "_showFeedback": {
-      "ariaLabel": "Show feedback",
-      "buttonText": "Show feedback"
-    },
-    "_hideCorrectAnswer": {
-      "ariaLabel": "Hide correct answer",
-      "buttonText": "Hide correct answer"
-    },
-    "_showCorrectAnswer": {
-      "ariaLabel": "Show correct answer",
-      "buttonText": "Show correct answer"
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
     },
     "_reset": {
-      "ariaLabel": "Reset",
-      "buttonText": "Reset"
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
     },
-    "_submit": {
-      "ariaLabel": "Submit",
-      "buttonText": "Submit"
-    }
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Hide correct answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "remaining attempts",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
   },
   "_latestTrackingId": 30,
   "body": "<p>This is currently a demo. All sections have been unlocked for testing.</p>",
