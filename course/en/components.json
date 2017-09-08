@@ -635,7 +635,7 @@
         "title": "",
         "body": "<p>Conduct that must be endured as a condition of continued employment</p>",
         "_graphic": {
-          "src": "http://dingo.care2.com/pictures/c2c/share/28/289/987/2898736_370.jpg",
+          "src": "course/en/assets/c5e96071079a9d5d7176be3b11bb8dc9345708b9.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -645,7 +645,7 @@
         "title": "",
         "body": "<p>Conduct that is severe or pervasive enough to create a work environment that a reasonable person would consider intimidating, hostile, or abusive</p>",
         "_graphic": {
-          "src": "http://stressipedia.com/post/2011/06/27/image.axd?picture=2011%2F7%2Fbad-work-environment.jpg",
+          "src": "course/en/assets/74fefa0ad4d5f313f48ed2763640c06eb4d0d142.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -655,7 +655,7 @@
         "title": "",
         "body": "<p>Retaliation for filing a discrimination charge, testifying, or participating in any ways in an investigation, proceeding, or lawsuit under these laws; or opposing employment practices that they reasonably believe discriminate against individuals, in violation of these laws</p>",
         "_graphic": {
-          "src": "http://lawtrack.com/wp-content/uploads/2015/03/discrimination-at-work.jpg",
+          "src": "course/en/assets/6e4fef6654628e8600c20eb2a5b18668b597ed1b.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -707,7 +707,7 @@
         "title": "",
         "body": "<p>Lack of Diversity</p>",
         "_graphic": {
-          "src": "http://insights.dice.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-09-at-10.22.37-AM.png",
+          "src": "course/en/assets/4d9aa14c3933974a174a86f29ae39f4c6e650420.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -717,7 +717,7 @@
         "title": "",
         "body": "<p>Cultural and language differences</p>",
         "_graphic": {
-          "src": "http://blog.bridge-global.com/wp-content/uploads/2010/11/cultdiff.jpg",
+          "src": "course/en/assets/470e24f9b86e84221c46d020186cd90966b2b27c.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -727,7 +727,7 @@
         "title": "",
         "body": "<p>Jobsites that encourage drinking</p>",
         "_graphic": {
-          "src": "http://djcoregon.com/files/2010/07/0709_hot_weather_construction_walsh_5.jpg",
+          "src": "course/en/assets/c940f15a4aefe79b0d3031cdf945f97664223b22.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -737,7 +737,7 @@
         "title": "",
         "body": "<p>Places with significant job power disparities</p>",
         "_graphic": {
-          "src": "http://pamplinmedia.com/images/artimg/00003571231593.jpg",
+          "src": "course/en/assets/bef8f66a6e827d08b6d68acd8796a06a241b67c1.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -747,7 +747,7 @@
         "title": "",
         "body": "<p>Isolated/Distant sites</p>",
         "_graphic": {
-          "src": "https://gemoomay.files.wordpress.com/2014/11/isolation_by_vallyncia.jpg",
+          "src": "course/en/assets/e3a08955d6f9fadfc26ec6bbac5c3c42e84b6474.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -779,7 +779,7 @@
         "title": "Changes in behavior",
         "body": "<p>These could include, but are not limited to:</p><ul><li>Tardiness</li><li>Absenteeism</li><li>Mood swings</li><li>Isolation</li><li>Not talking</li></ul>",
         "_graphic": {
-          "src": "https://unhealthyrelationships.files.wordpress.com/2011/02/angry-man.png",
+          "src": "course/en/assets/35674c601d5be74f5d94ebce44ca549fae8ee39c.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -789,7 +789,7 @@
         "title": "Avoidance or Uncomfortable",
         "body": "<p>If you notice that one worker shrinks or shies away from another worker or manager all the time, they might be avoiding a situation where they are harassed.</p>",
         "_graphic": {
-          "src": "http://media.istockphoto.com/photos/man-lost-in-depression-sitting-on-ground-street-subway-tunnel-picture-id515010131?k=6&m=515010131&s=612x612&w=0&h=amkKZqwZJg7mXkrUGSFbPYEn8S6V2ADsKWUjLC4pfbQ=",
+          "src": "course/en/assets/ca443719be1e75963146c0676e009cdef239bc77.jpg",
           "alt": "",
           "attribution": ""
         },
@@ -953,7 +953,7 @@
   },
   {
     "_id": "59b15a0efc94f1fc127eec71",
-    "_layout": "full",
+    "_layout": "left",
     "_type": "component",
     "_parentId": "59b159fbfc94f1fc127eec70",
     "body": "<p>If you ever feel you are being harassed or witness harassment, it is important that you report it to your Apprenticeship Coordinator.&nbsp;</p><p>Each Coordinator might have a different anti-harassment policy, but listed here is common method of reporting.</p>",
@@ -1194,7 +1194,7 @@
       },
       {
         "text": "No",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       }
     ],
@@ -1423,7 +1423,7 @@
       },
       {
         "text": "False",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       }
     ],
@@ -1556,7 +1556,7 @@
   },
   {
     "_id": "59b165def880bbb009922f54",
-    "_layout": "full",
+    "_layout": "left",
     "_type": "component",
     "_parentId": "59b1623cf880bbb009922f50",
     "body": "<p>You have successfully completed the exercise.</p>",
@@ -1570,5 +1570,51 @@
       "_isEnabled": true
     },
     "instruction": ""
+  },
+  {
+    "_id": "59b2889fea3062c8148aea1d",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "59b1623cf880bbb009922f50",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAVlAAAAJDg4ZTBmMjlkLWJiOWMtNDU3MC1hODAxLWQyYWNlYmE3YzA2Nw.png",
+      "small": "https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAVlAAAAJDg4ZTBmMjlkLWJiOWMtNDU3MC1hODAxLWQyYWNlYmE3YzA2Nw.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59b28e39ea3062c8148aea34",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "59b159fbfc94f1fc127eec70",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/dfd57fc4df19da63316f7f5f608fe8712951a870.jpg",
+      "small": "course/en/assets/dfd57fc4df19da63316f7f5f608fe8712951a870.jpg",
+      "attribution": ""
+    }
   }
 ]
