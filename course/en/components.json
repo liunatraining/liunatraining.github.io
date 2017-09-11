@@ -1616,5 +1616,45 @@
       "small": "course/en/assets/dfd57fc4df19da63316f7f5f608fe8712951a870.jpg",
       "attribution": ""
     }
+  },
+  {
+    "_id": "59b685d9ea3062c8148aea44",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "59b68574ea3062c8148aea43",
+    "body": "",
+    "displayTitle": "",
+    "title": "Image",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "http://www.dedge.com/image/services/onlinecourses.jpg",
+      "small": "http://www.dedge.com/image/services/onlinecourses.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59b68605ea3062c8148aea45",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "59b68574ea3062c8148aea43",
+    "body": "<p>This course was tested to work on both mobile and PC, but it is preferable to use a dedicated computer or tablet for this exercise.</p><p>At the end of this course, you will be asked to fill out a registration page. This information will be used to track that you have taken this course successfully.</p><p>Using the <a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwii9smkmJ3WAhWP14MKHWMNBEoQ0EMINA&amp;url=https%3A%2F%2Fwww.google.com%2Fchrome%2Fbrowser%2F&amp;usg=AFQjCNG19iEVK3TZqhAHQwzOx8ulYv7V8g\"><span style=\"color:#ADD8E6\">Google Chrome</span></a> web browser to take this course is highly recommended.</p><p>If you need to restart a page for any reason, just refresh the website.</p>",
+    "displayTitle": "Technical Notes",
+    "title": "Technical Notes",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
   }
 ]
