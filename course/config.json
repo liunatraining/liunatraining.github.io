@@ -30,9 +30,10 @@
     "includes": [
       "adapt-theme-community",
       "adapt-contrib-boxMenu",
-      "adapt-contrib-tutor",
-      "adapt-contrib-trickle",
+      "adapt-contrib-resources",
       "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-trickle",
+      "adapt-contrib-tutor",
       "adapt-contrib-text",
       "adapt-contrib-graphic",
       "adapt-contrib-mcq",

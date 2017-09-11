@@ -11,27 +11,27 @@
     "displayTitle": "Tutorial",
     "title": "Tutorial",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -46,27 +46,27 @@
     "displayTitle": "Case Study #1",
     "title": "Case Study #1",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -81,27 +81,27 @@
     "displayTitle": "Risks",
     "title": "Risks",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -116,27 +116,27 @@
     "displayTitle": "How to report",
     "title": "How to report",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -151,27 +151,27 @@
     "displayTitle": "Instructions",
     "title": "Instructions",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -186,27 +186,27 @@
     "displayTitle": "Definition of Harassment 1/3",
     "title": "Definition of Harassment 1/3",
     "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": false,
+      "_isEnabled": false
     }
   },
   {
@@ -221,27 +221,27 @@
     "displayTitle": "Warning Signs",
     "title": "Warning Signs",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -256,27 +256,27 @@
     "displayTitle": "",
     "title": "Reporting Harassment",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -291,27 +291,27 @@
     "displayTitle": "Question #1",
     "title": "Question #1",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -326,27 +326,27 @@
     "displayTitle": "Additional Information",
     "title": "Additional Information",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -361,27 +361,27 @@
     "displayTitle": "",
     "title": "Multiple Choice Question",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -396,27 +396,27 @@
     "displayTitle": "Definition of Harassment 2/3",
     "title": "Definition of Harassment 2/3",
     "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": false,
+      "_isEnabled": false
     }
   },
   {
@@ -431,27 +431,27 @@
     "displayTitle": "Prevention",
     "title": "Prevention",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": false,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -466,27 +466,27 @@
     "displayTitle": "Investigation",
     "title": "Investigation",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -501,27 +501,27 @@
     "displayTitle": "Question #2",
     "title": "Question #2",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -536,27 +536,27 @@
     "displayTitle": "Harassing conduct will not be tolerated.",
     "title": "Harassing conduct will not be tolerated.",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -571,27 +571,27 @@
     "displayTitle": "Definition of Harassment 3/3",
     "title": "Definition of Harassment 3/3",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -606,27 +606,27 @@
     "displayTitle": "Section Summary",
     "title": "Section Summary",
     "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": false,
+      "_isEnabled": false
     }
   },
   {
@@ -641,27 +641,27 @@
     "displayTitle": "Summary",
     "title": "Summary",
     "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": false,
+      "_isEnabled": false
     }
   },
   {
@@ -676,27 +676,27 @@
     "displayTitle": "Question #3",
     "title": "Question #3",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -711,27 +711,27 @@
     "displayTitle": "What you will learn:",
     "title": "What you will learn:",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -746,27 +746,27 @@
     "displayTitle": "Case Study #2",
     "title": "Case Study #2",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -781,27 +781,27 @@
     "displayTitle": "",
     "title": "Block title",
     "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": false,
+      "_isEnabled": false
     }
   },
   {
@@ -816,27 +816,27 @@
     "displayTitle": "",
     "title": "Block title",
     "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": false,
+      "_isEnabled": false
     }
   },
   {
@@ -851,27 +851,27 @@
     "displayTitle": "Question #4",
     "title": "Question #4",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -886,27 +886,27 @@
     "displayTitle": "First Section Complete",
     "title": "First Section Complete",
     "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": false,
+      "_isEnabled": false
     }
   },
   {
@@ -921,27 +921,27 @@
     "displayTitle": "What does the law say about harassment?",
     "title": "What does the law say about harassment?",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -956,27 +956,27 @@
     "displayTitle": "Question #5",
     "title": "Question #5",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -991,27 +991,27 @@
     "displayTitle": "Section Complete",
     "title": "Section Complete",
     "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": false,
+      "_isEnabled": false
     }
   },
   {
@@ -1026,27 +1026,27 @@
     "displayTitle": "The following is a proof of concept",
     "title": "The following is a proof of concept",
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": true,
+      "_isEnabled": true
     }
   },
   {
@@ -1061,27 +1061,27 @@
     "displayTitle": "Congratulations",
     "title": "Congratulations",
     "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
       "_stepLocking": {
-        "_isEnabled": true,
+        "_isLockedOnRevisit": false,
         "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": true
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": false,
+      "_isEnabled": false
     }
   }
 ]

@@ -17,8 +17,8 @@
     "displayTitle": "Harassment Prevention",
     "title": "Harassment Prevention",
     "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   },
   {
@@ -39,8 +39,8 @@
     "displayTitle": "Section 2",
     "title": "Section 2",
     "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   },
   {
@@ -61,8 +61,8 @@
     "displayTitle": "Section 3",
     "title": "Section 3",
     "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   },
   {
@@ -83,8 +83,8 @@
     "displayTitle": "Section 4",
     "title": "Section 4",
     "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   },
   {
@@ -105,8 +105,8 @@
     "displayTitle": "Assessment",
     "title": "Assessment",
     "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   }
 ]
