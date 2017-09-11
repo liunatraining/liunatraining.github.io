@@ -876,7 +876,7 @@
     "_items": [
       {
         "title": "Address",
-        "body": "<p>&bull;Addressed to Apprenticeship Coordinator</p><p>&bull;If you are not satisfied with the outcome or wish to file the report with another party, you can make your claim to the Registration Agency or the EEOC.</p>",
+        "body": "<p><span style=\"color:#000000\">&bull;Addressed to Apprenticeship Coordinator</span></p><p><span style=\"color:#000000\">&bull;If you are not satisfied with the outcome or wish to file the report with another party, you can make your claim to the Registration Agency or the EEOC.</span></p>",
         "strapline": "Address",
         "_graphic": {
           "src": "https://lh3.ggpht.com/17X9RoWP35dOY2uRwjrZ7TMbT7sG3TXCQ4PUvFpfKziTaE_WXm55cNt8vn6UZRVqra7l=w300",
@@ -891,8 +891,8 @@
       },
       {
         "title": "Identity of the Harasser",
-        "body": "<ul><li>Keep a record of the time and date of the incident(s)</li><li>Includes the names of the individuals involved</li></ul>",
-        "strapline": "Identity of the Harasser",
+        "body": "<p><span style=\"color:#000000\">&bull;Keep a record of the time and date of the incident(s)</span></p><p><span style=\"color:#000000\">&bull;Include&nbsp;the names of the individuals involved</span></p>",
+        "strapline": "Identity",
         "_graphic": {
           "src": "http://1.bp.blogspot.com/-XZhJ92-8n0g/UKNqre3PCbI/AAAAAAAAAbY/b8n0bAx-Z0I/s1600/identity.png",
           "alt": "",
@@ -906,7 +906,7 @@
       },
       {
         "title": "Short Description",
-        "body": "<p>&bull;When has it occurred?</p><p>&bull;What happened?</p><p>&bull;Why you consider it to be harassment</p>",
+        "body": "<p><span style=\"color:#000000\">&bull;When has it occurred?</span></p><p><span style=\"color:#000000\">&bull;What happened?</span></p><p><span style=\"color:#000000\">&bull;Why you consider it to be harassment</span></p>",
         "strapline": "Short Description",
         "_graphic": {
           "src": "http://images.clipartpanda.com/description-clipart-description-clipart-1.jpg",
@@ -921,7 +921,7 @@
       },
       {
         "title": "Your Information",
-        "body": "<p>&bull;Name</p><p>&bull;Address</p><p>&bull;Telephone (or other means of contact)</p>",
+        "body": "<p><span style=\"color:#000000\">&bull;Name</span></p><p><span style=\"color:#000000\">&bull;Address</span></p><p><span style=\"color:#000000\">&bull;Telephone (or other means of contact)</span></p>",
         "strapline": "Your Information",
         "_graphic": {
           "src": "http://www.public-domain-photos.com/free-cliparts-4/computer/actions/info.png",
@@ -936,7 +936,7 @@
       },
       {
         "title": "Your Signature",
-        "body": "<p>Include your signature at the end</p>",
+        "body": "<p><span style=\"color:#000000\">&bull;Include your signature at the end</span></p>",
         "strapline": "Your Signature",
         "_graphic": {
           "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgjflzyVOBLXLJEmG0r0ndQCD6CNouVQpB6iU96N4-vJ7t1LOlNg",
