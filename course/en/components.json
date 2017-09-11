@@ -526,7 +526,7 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "59b13d9ffc94f1fc127eec58",
-    "body": "<p>Harassment is a term that you might have heard before, but what exactly falls into the category of harassment?&nbsp; Let&rsquo;s look at the following case study.</p><p>Matthew, a Filipino-American, worked as a laborer on a pipe laying crew for a little over a year.&nbsp;</p><p>A short while after starting the job, his white manager started calling Matthew names like &ldquo;non-white guy&rdquo;, &ldquo;spic&rdquo;, and &ldquo;monkey&rdquo;.&nbsp; After some time, Matthew went to the company&rsquo;s safety manager about the issue, and he was fired for his opposition.</p>",
+    "body": "<p>Harassment is a term that you might have heard before, but what exactly falls into the category of harassment?&nbsp; Let&rsquo;s look at the following case study.</p><p>Matthew, a Filipino-American, worked as a laborer on a pipe laying crew for a little over a year.&nbsp;</p><p>A short while after starting the job, his white manager started calling Matthew names like &ldquo;non-white guy&rdquo; and &ldquo;monkey&rdquo;.&nbsp; After some time, Matthew went to the company&rsquo;s safety manager about the issue, and he was fired for his opposition.</p>",
     "displayTitle": "",
     "title": "Component title",
     "_isAvailable": true,
@@ -633,7 +633,7 @@
     "_items": [
       {
         "title": "",
-        "body": "<p>Conduct that must be endured as a condition of continued employment</p>",
+        "body": "<p>Conduct that must be endured as a condition of continued employment</p><p>Workplace harassment can happen in person or online and inside or outside the workplace</p>",
         "_graphic": {
           "src": "course/en/assets/c5e96071079a9d5d7176be3b11bb8dc9345708b9.jpg",
           "alt": "",
