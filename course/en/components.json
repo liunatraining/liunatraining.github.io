@@ -274,9 +274,9 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "59b056c2877987bc144d2b14",
-    "body": "<p>Now that we have a little better understanding of harassment, let&rsquo;s look at Maria&rsquo;s case.</p><p>Maria was a six-year laborer at a site and had recently been promoted to supervisor.&nbsp; She was fired nine days after announcing that she was pregnant with twins.&nbsp;</p><p>Her employer claimed that he feared for her safety and the company&rsquo;s liability, even though Maria&rsquo;s doctor had cleared her without medical restriction.</p>",
-    "displayTitle": "This section may need to be reworked. It was commented that this is gender discrimination, and not clearly harassment.",
-    "title": "This section may need to be reworked. It was commented that this is gender discrimination, and not clearly harassment.",
+    "body": "<p>Jennifer had been working&nbsp;from June to October on a paving crew.&nbsp;Several male coworkers made statements saying she didn&rsquo;t belong on the work-site and should be home in the kitchen taking care of children.&nbsp;</p><p>She had also been touched on the shoulder and leg in another incident.</p><p>When Jennifer brought this to the attention of her supervisors, she was suggested to quit.&nbsp;In the end, she did decide to resign.</p>",
+    "displayTitle": "",
+    "title": "Case #1",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -291,7 +291,7 @@
     "_layout": "right",
     "_type": "component",
     "_parentId": "59b056c2877987bc144d2b14",
-    "body": "<p>After reading&nbsp;about what happened to Maria, would you consider this case to be harassment?</p>",
+    "body": "<p>After reading about what happened to Jennifer, would you consider this case to be harassment?</p>",
     "displayTitle": "",
     "title": "Question #1",
     "_isAvailable": true,
@@ -324,9 +324,9 @@
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
-      "correct": "<p>Correct!&nbsp; The answer is yes because it targets a specific sex and was a condition for her employment.</p>",
+      "correct": "<p>Correct! The answer is yes because it targets a specific gender and is severe and pervasive.</p>",
       "_incorrect": {
-        "final": "<p>Incorrect. The answer is yes because it targets a specific sex and was a condition for her employment.</p>",
+        "final": "<p>Incorrect. The answer is yes because it targets a specific gender and is severe and pervasive.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
