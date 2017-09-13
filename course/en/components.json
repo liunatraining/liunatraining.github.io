@@ -274,7 +274,7 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "59b056c2877987bc144d2b14",
-    "body": "<p>Jennifer had been working&nbsp;from June to October on a paving crew.&nbsp;Several male co-workers made statements saying she didn&rsquo;t belong on the work-site and should be home in the kitchen taking care of children.&nbsp;</p><p>She had also been touched on the shoulder and leg in another incident.</p><p>When Jennifer brought this to the attention of her supervisors, it was suggested that she quit.&nbsp;In the end, Jennifer resigned from her position.</p>",
+    "body": "<p>Jennifer had been working&nbsp;from June to October on a paving crew.&nbsp;Several male co-workers made statements saying she didn&rsquo;t belong on the work-site and should be home in the kitchen taking care of children.&nbsp;</p><p>She had also been touched on the shoulder and leg in another incident.</p><p>When Jennifer brought this to the attention of her supervisors, their response was to tell her that if she didn&rsquo;t like the situation, she should quit.&nbsp;In the end, Jennifer resigned from her position.</p>",
     "displayTitle": "",
     "title": "Case #1",
     "_isAvailable": true,
@@ -447,7 +447,7 @@
         "front": "Sexual Orientation",
         "back": {
           "title": "",
-          "body": "<p><span style=\"color:#000000\">&bull;Protects lesbian, gay, bisexual, and transgender employees</span></p><p><span style=\"color:#000000\">&bull;Regardless of any contrary state or local laws</span></p>",
+          "body": "<p><span style=\"color:#000000\">&bull;Includes lesbian, gay, bisexual, and transgender employees</span></p><p><span style=\"color:#000000\">&bull;Regardless of any contrary state or local laws</span></p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -876,7 +876,7 @@
     "_items": [
       {
         "title": "Address",
-        "body": "<p><span style=\"color:#000000\">&bull;Addressed to Apprenticeship Coordinator</span></p><p><span style=\"color:#000000\">&bull;If you are not satisfied with the outcome or wish to file the report with another party, you can make your claim to the Registration Agency or the EEOC.</span></p>",
+        "body": "<p><span style=\"color:#000000\">&bull;Addressed to the appropriate supervisor</span></p><p><span style=\"color:#000000\">&bull;If you are not satisfied with the outcome or wish to file the report with another party, you can make your claim to the Registration Agency or the EEOC.</span></p>",
         "strapline": "Address",
         "_graphic": {
           "src": "https://lh3.ggpht.com/17X9RoWP35dOY2uRwjrZ7TMbT7sG3TXCQ4PUvFpfKziTaE_WXm55cNt8vn6UZRVqra7l=w300",
@@ -956,7 +956,7 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "59b159fbfc94f1fc127eec70",
-    "body": "<p>If you ever feel you are being harassed or witness harassment, it is important that you report it to your Apprenticeship Coordinator.&nbsp;</p><p>Each Coordinator might have a different anti-harassment policy, but listed below is common method of reporting.</p>",
+    "body": "<p>If you ever feel you are being harassed or witness harassment, it is important that you report it to the appropriate supervisor.</p><p>Each supervisor may have a different anti-harassment policy, but listed below is common method of reporting.</p>",
     "displayTitle": "",
     "title": "Text",
     "_isAvailable": true,
@@ -973,7 +973,7 @@
     "_layout": "full",
     "_type": "component",
     "_parentId": "59b15cdff880bbb009922f35",
-    "body": "<p>After you have submitted your complaint, here are the steps that happen next.&nbsp; Again, each Coordinator might have a different anti-harassment policy, but these are the common steps.</p>",
+    "body": "<p>After you have submitted your complaint, here are the steps that happen next.&nbsp; Again, each supervisor might have a different anti-harassment policy, but these are the common steps.</p>",
     "displayTitle": "Investigation Steps",
     "title": "Investigation Steps",
     "_isAvailable": true,
@@ -1339,7 +1339,7 @@
         "feedback": ""
       },
       {
-        "text": "B.    File a written complaint with your Apprenticeship Coordinator",
+        "text": "B.    File a written complaint with the appropriate supervisor",
         "_shouldBeSelected": true,
         "feedback": ""
       },
