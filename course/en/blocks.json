@@ -183,30 +183,30 @@
     "_trackingId": 6,
     "_classes": "tertiary",
     "body": "",
-    "displayTitle": "Definition of Harassment 1/3",
-    "title": "Definition of Harassment 1/3",
+    "displayTitle": "Definition of Harassment",
+    "title": "Definition of Harassment",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": false,
       "_autoScroll": false,
-      "_isEnabled": false
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
@@ -393,30 +393,30 @@
     "_trackingId": 12,
     "_classes": "",
     "body": "",
-    "displayTitle": "Definition of Harassment 2/3",
+    "displayTitle": "",
     "title": "Definition of Harassment 2/3",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": false,
       "_autoScroll": false,
-      "_isEnabled": false
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
@@ -568,30 +568,30 @@
     "_trackingId": 17,
     "_classes": "tertiary",
     "body": "",
-    "displayTitle": "Definition of Harassment 3/3",
+    "displayTitle": "",
     "title": "Definition of Harassment 3/3",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": true,
-      "_isEnabled": true
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
