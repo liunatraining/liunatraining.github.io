@@ -627,7 +627,7 @@
       "_isEnabled": true
     },
     "instruction": "Select the arrow to find out more.",
-    "mobileInstruction": "Press the \"+\" symbol to learn more about what to include in the letter for each topic.  Go through each object before continuing.",
+    "mobileInstruction": "Press the \"+\" symbol to learn more about each topic. Close the window and press the arrow to advance to the next section. You must complete all sections.",
     "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
     "_items": [
@@ -699,7 +699,7 @@
       "_isEnabled": true
     },
     "instruction": "Select the arrow to find out more",
-    "mobileInstruction": "Press the \"+\" symbol to learn more about what to include in the letter for each topic.  Go through each object before continuing.",
+    "mobileInstruction": "Press the \"+\" symbol to learn more about each topic. Close the window and press the arrow to advance to the next section. You must complete all sections.",
     "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
     "_items": [
@@ -771,7 +771,7 @@
       "_isEnabled": true
     },
     "instruction": "Select the arrow to find out more",
-    "mobileInstruction": "Press the \"+\" symbol to learn more about what to include in the letter for each topic.  Go through each object before continuing.",
+    "mobileInstruction": "Press the \"+\" symbol to learn more about each topic. Close the window and press the arrow to advance to the next section. You must complete all sections.",
     "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
     "_items": [
