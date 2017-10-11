@@ -42,7 +42,8 @@
       "adapt-next-button",
       "adapt-contrib-narrative",
       "adapt-contrib-accordion",
-      "adapt-contrib-hotgraphic"
+      "adapt-contrib-hotgraphic",
+      "adapt-contrib-responsiveIframe"
     ]
   }
 }

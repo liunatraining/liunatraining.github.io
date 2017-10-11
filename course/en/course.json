@@ -54,9 +54,6 @@
       "_graphic": {
         "ariaRegion": ""
       },
-      "_textinput": {
-        "ariaRegion": "This question requires you to input your answer in the textbox provided. When you have done so, select the submit button below."
-      },
       "_mcq": {
         "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
       },
@@ -81,16 +78,10 @@
     }
   },
   "_start": {
-    "_isEnabled": true,
-    "_startIds": [
-      {
-        "_id": "59b02d12436412cc14654d00",
-        "_skipIfComplete": false,
-        "_className": ""
-      }
-    ],
-    "_force": true,
-    "_isMenuDisabled": true
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
   },
   "_type": "course",
   "_lockType": "",

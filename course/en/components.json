@@ -1473,23 +1473,6 @@
     }
   },
   {
-    "_id": "59b165def880bbb009922f54",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "59b1623cf880bbb009922f50",
-    "body": "<p>Congratulations!</p><p>You have successfully completed this anti-harassment training.</p>",
-    "displayTitle": "",
-    "title": "Well done",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
     "_id": "59b28e39ea3062c8148aea34",
     "_layout": "right",
     "_type": "component",
@@ -1551,5 +1534,34 @@
       "_isEnabled": true
     },
     "instruction": ""
+  },
+  {
+    "_id": "59deac9cbe9f529c0e177744",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59b1623cf880bbb009922f50",
+    "body": "<p>Congratulations!</p><p>You have successfully completed this anti-harassment training.</p>",
+    "displayTitle": "Registration",
+    "title": "Registration",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Please fill out the form below, as proof that you have taken this course.",
+    "_source": "https://docs.google.com/forms/d/e/1FAIpQLSf3jIBmPNrTZRJ2oP8znqZ-bdHAjHDb8WA6iXwPz5MH997yMA/viewform?embedded=true",
+    "_scrolling": "auto",
+    "_width": {
+      "_small": 700,
+      "_medium": 800,
+      "_large": 900
+    },
+    "_height": {
+      "_small": 400,
+      "_medium": 500,
+      "_large": 600
+    }
   }
 ]
