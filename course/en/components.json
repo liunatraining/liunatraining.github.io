@@ -1540,7 +1540,7 @@
     "_layout": "full",
     "_type": "component",
     "_parentId": "59b1623cf880bbb009922f50",
-    "body": "<p>Congratulations!</p><p>You have successfully completed this anti-harassment training.</p>",
+    "body": "<p>You have successfully completed this anti-harassment training.</p>",
     "displayTitle": "Registration",
     "title": "Registration",
     "_isAvailable": true,
