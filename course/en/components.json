@@ -382,7 +382,7 @@
         "front": "Race",
         "back": {
           "title": "",
-          "body": "<p><span style=\"color:#000000\">&bull;Person is of a certain race</span></p><p><span style=\"color:#000000\">&bull;Personal characteristics associated with race (such as hair texture, skin color, or certain facial features)</span></p>",
+          "body": "<p style=\"text-align: center;\"><strong>Race</strong></p><p><span style=\"color:#000000\">&bull;Person is of a certain race</span></p><p><span style=\"color:#000000\">&bull;Personal characteristics associated with race (such as hair texture, skin color, or certain facial features)</span></p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -393,7 +393,7 @@
         "front": "Color",
         "back": {
           "title": "",
-          "body": "<p><span style=\"color:#000000\">&bull;Skin color complexion</span></p><p><span style=\"color:#000000\">&bull;Married to (or associated with) a person of a certain race or color</span></p>",
+          "body": "<p style=\"text-align: center;\"><strong>Color</strong></p><p><span style=\"color:#000000\">&bull;Skin color complexion</span></p><p><span style=\"color:#000000\">&bull;Married to (or associated with) a person of a certain race or color</span></p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -404,7 +404,7 @@
         "front": "National Origin",
         "back": {
           "title": "",
-          "body": "<p><span style=\"color:#000000\">&bull;From a particular country or part of the world</span></p><p><span style=\"color:#000000\">&bull;Ethnicity or accent</span></p><p><span style=\"color:#000000\">&bull;Appear to be of a certain ethnic background (even if they are not)</span></p>",
+          "body": "<p style=\"text-align: center;\"><strong>National Origin</strong></p><p><span style=\"color:#000000\">&bull;From a particular country or part of the world</span></p><p><span style=\"color:#000000\">&bull;Ethnicity or accent</span></p><p><span style=\"color:#000000\">&bull;Appear to be of a certain ethnic background (even if they are not)</span></p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -436,7 +436,7 @@
         "front": "Sex",
         "back": {
           "title": "",
-          "body": "<p><span style=\"color:#000000\">&bull;Gender including transgender</span></p><p><span style=\"color:#000000\">&bull;Unwelcome sexual advances</span></p><p><span style=\"color:#000000\">&bull;Requests for sexual favors</span></p><p><span style=\"color:#000000\">&bull;Other verbal or physical harassment of a sexual nature</span></p>",
+          "body": "<p style=\"text-align: center;\"><strong>Sex</strong></p><p><span style=\"color:#000000\">&bull;Gender including transgender</span></p><p><span style=\"color:#000000\">&bull;Unwelcome sexual advances</span></p><p><span style=\"color:#000000\">&bull;Requests for sexual favors</span></p><p><span style=\"color:#000000\">&bull;Other verbal or physical harassment of a sexual nature</span></p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -447,7 +447,7 @@
         "front": "Sexual Orientation",
         "back": {
           "title": "",
-          "body": "<p><span style=\"color:#000000\">&bull;Includes lesbian, gay, bisexual, and transgender employees</span></p><p><span style=\"color:#000000\">&bull;Regardless of any contrary state or local laws</span></p>",
+          "body": "<p style=\"text-align: center;\"><strong>Sexual Orientation</strong></p><p><span style=\"color:#000000\">&bull;Includes lesbian, gay, bisexual, and transgender employees</span></p><p><span style=\"color:#000000\">&bull;Regardless of any contrary state or local laws</span></p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -458,7 +458,7 @@
         "front": "Genetic Information",
         "back": {
           "title": "",
-          "body": "<p><span style=\"color:#000000\">&bull;Information about an individual&rsquo;s genetic tests</span></p><p><span style=\"color:#000000\">&bull;The genetic tests of a family member</span></p><p><span style=\"color:#000000\">&bull;The manifestation of a disease or disorder in a family member</span></p>",
+          "body": "<p style=\"text-align: center;\"><strong>Genetic Information</strong></p><p><span style=\"color:#000000\">&bull;Information about an individual&rsquo;s genetic tests</span></p><p><span style=\"color:#000000\">&bull;The genetic tests of a family member</span></p><p><span style=\"color:#000000\">&bull;The manifestation of a disease or disorder in a family member</span></p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -490,7 +490,7 @@
         "front": "Disability",
         "back": {
           "title": "",
-          "body": "<p><span style=\"color:#000000\">&bull;Regardless if disability is past, present, or believed to be</span></p><p><span style=\"color:#000000\">&bull;Relationship to someone disabled</span></p>",
+          "body": "<p style=\"text-align: center;\"><strong>Disability</strong></p><p><span style=\"color:#000000\">&bull;Regardless if disability is past, present, or believed to be</span></p><p><span style=\"color:#000000\">&bull;Relationship to someone disabled</span></p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -501,7 +501,7 @@
         "front": "Religion",
         "back": {
           "title": "",
-          "body": "<p><span style=\"color:#000000\">&bull;Traditional, organized religions</span></p><p><span style=\"color:#000000\">&bull;Also, sincerely held religious, ethical or moral beliefs</span></p><p><span style=\"color:#000000\">&bull;Married to (or associated with) an individual of a particular religion</span></p>",
+          "body": "<p style=\"text-align: center;\"><strong>Religion</strong></p><p><span style=\"color:#000000\">&bull;Traditional, organized religions</span></p><p><span style=\"color:#000000\">&bull;Also, sincerely held religious, ethical or moral beliefs</span></p><p><span style=\"color:#000000\">&bull;Married to (or associated with) an individual of a particular religion</span></p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -512,7 +512,7 @@
         "front": "Age",
         "back": {
           "title": "",
-          "body": "<p><span style=\"color:#000000\">&bull;Must be age 40 or older</span></p><p><span style=\"color:#000000\">&bull;Some states do protect younger</span></p><p><span style=\"color:#000000\">&bull;Not illegal to favor older over younger</span></p>",
+          "body": "<p style=\"text-align: center;\"><strong>Age</strong></p><p><span style=\"color:#000000\">&bull;Must be age 40 or older</span></p><p><span style=\"color:#000000\">&bull;Some states do protect younger</span></p><p><span style=\"color:#000000\">&bull;Not illegal to favor older over younger</span></p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -1474,11 +1474,11 @@
   },
   {
     "_id": "59b165def880bbb009922f54",
-    "_layout": "left",
+    "_layout": "full",
     "_type": "component",
     "_parentId": "59b1623cf880bbb009922f50",
-    "body": "<p>Congratulations!</p><p>You have successfully completed the exercise. This concludes your anti-harassment training.</p>",
-    "displayTitle": "Well done",
+    "body": "<p>Congratulations!</p><p>You have successfully completed this anti-harassment training.</p>",
+    "displayTitle": "",
     "title": "Well done",
     "_isAvailable": true,
     "_isOptional": false,
@@ -1488,29 +1488,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "59b2889fea3062c8148aea1d",
-    "_layout": "right",
-    "_type": "component",
-    "_parentId": "59b1623cf880bbb009922f50",
-    "body": "",
-    "displayTitle": "",
-    "title": "Image",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAVlAAAAJDg4ZTBmMjlkLWJiOWMtNDU3MC1hODAxLWQyYWNlYmE3YzA2Nw.png",
-      "small": "https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAVlAAAAJDg4ZTBmMjlkLWJiOWMtNDU3MC1hODAxLWQyYWNlYmE3YzA2Nw.png",
-      "attribution": ""
-    }
   },
   {
     "_id": "59b28e39ea3062c8148aea34",
