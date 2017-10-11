@@ -1015,47 +1015,12 @@
     }
   },
   {
-    "_id": "59b161b4f880bbb009922f4e",
-    "_type": "block",
-    "_parentId": "59b15eb2f880bbb009922f41",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 30,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "The following is a proof of concept",
-    "title": "The following is a proof of concept",
-    "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
-      "_autoScroll": true,
-      "_isEnabled": true
-    }
-  },
-  {
     "_id": "59b1623cf880bbb009922f50",
     "_type": "block",
     "_parentId": "59b15eb2f880bbb009922f41",
     "_isAvailable": true,
     "_isOptional": false,
-    "_trackingId": 31,
+    "_trackingId": 30,
     "_classes": "tertiary",
     "body": "",
     "displayTitle": "Congratulations",

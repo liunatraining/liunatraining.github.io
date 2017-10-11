@@ -1473,93 +1473,11 @@
     }
   },
   {
-    "_id": "59b161c5f880bbb009922f4f",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "59b161b4f880bbb009922f4e",
-    "body": "",
-    "displayTitle": "Registration",
-    "title": "Registration",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "textinput",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Please fill out the form below as proof that you have taken this course.",
-    "_items": [
-      {
-        "_answers": [],
-        "prefix": "First Name",
-        "suffix": "",
-        "placeholder": ""
-      },
-      {
-        "_answers": [],
-        "prefix": "Last Name",
-        "suffix": "",
-        "placeholder": ""
-      },
-      {
-        "_answers": [],
-        "prefix": "Training Fund",
-        "suffix": "",
-        "placeholder": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
-    "_canShowMarking": false,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": false,
-    "_questionWeight": 1,
-    "_allowsAnyCase": false,
-    "_allowsPunctuation": false,
-    "_feedback": {
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
     "_id": "59b165def880bbb009922f54",
     "_layout": "left",
     "_type": "component",
     "_parentId": "59b1623cf880bbb009922f50",
-    "body": "<p>You have successfully completed the exercise.</p>",
+    "body": "<p>Congratulations!</p><p>You have successfully completed the exercise. This concludes your anti-harassment training.</p>",
     "displayTitle": "Well done",
     "title": "Well done",
     "_isAvailable": true,
