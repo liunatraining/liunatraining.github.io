@@ -152,7 +152,7 @@
         "front": "Mental",
         "back": {
           "title": "",
-          "body": "<p><span style=\"color:#000000\">Leave lasting emotional damage</span></p>",
+          "body": "<p style=\"text-align: center;\"><strong>Mental</strong></p><p><span style=\"color:#000000\">Leave lasting emotional damage</span></p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -163,7 +163,7 @@
         "front": "Physical",
         "back": {
           "title": "",
-          "body": "<p><span style=\"color:#000000\">Stress and physical abuse may result</span></p>",
+          "body": "<p style=\"text-align: center;\"><strong>Physical</strong></p><p><span style=\"color:#000000\">Stress and physical abuse may result</span></p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -174,7 +174,7 @@
         "front": "Economic",
         "back": {
           "title": "",
-          "body": "<p><span style=\"color:#000000\">It can cost both the harasser and the employer large amounts of money</span></p>",
+          "body": "<p style=\"text-align: center;\"><strong>Economic</strong></p><p><span style=\"color:#000000\">It can cost both the harasser and the employer large amounts of money</span></p>",
           "_graphic": {
             "alt": "",
             "src": ""
@@ -185,7 +185,7 @@
         "front": "Reputation",
         "back": {
           "title": "",
-          "body": "<p><span style=\"color:#000000\">Reputations can be ruined, losing work and destroying careers</span></p>",
+          "body": "<p style=\"text-align: center;\"><strong>Reputation</strong></p><p><span style=\"color:#000000\">Reputations can be ruined, losing work and destroying careers</span></p>",
           "_graphic": {
             "alt": "",
             "src": ""
