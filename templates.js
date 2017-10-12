@@ -866,6 +866,36 @@ this["Handlebars"]["templates"]["narrative"] = Handlebars.template({"1":function
     + "            </div>\n        </div>\n\n        <div class=\"clearfix\"></div>\n\n    </div>    \n</div>\n";
 },"usePartial":true,"useData":true});
 
+this["Handlebars"]["templates"]["responsiveIframe"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
+    var helper;
+
+  return container.escapeExpression(((helper = (helper = helpers._scrolling || (depth0 != null ? depth0._scrolling : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(depth0 != null ? depth0 : (container.nullContext || {}),{"name":"_scrolling","hash":{},"data":data}) : helper)));
+},"3":function(container,depth0,helpers,partials,data) {
+    return "no";
+},"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.escapeExpression, alias3=container.lambda;
+
+  return "<div class=\"component-inner responsiveIframe-inner\">\n"
+    + ((stack1 = container.invokePartial(partials.component,depth0,{"name":"component","data":data,"indent":"  ","helpers":helpers,"partials":partials,"decorators":container.decorators})) != null ? stack1 : "")
+    + "  <div class=\"component-widget responsiveIframe-widget\">\n    <div class=\"responsiveIframe-iframe-holder\">\n      <iframe scrolling=\""
+    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0._scrolling : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.program(3, data, 0),"data":data})) != null ? stack1 : "")
+    + "\" class=\"responsiveIframe-iframe\" src=\""
+    + alias2(((helper = (helper = helpers._source || (depth0 != null ? depth0._source : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(alias1,{"name":"_source","hash":{},"data":data}) : helper)))
+    + "\"\n        data-height-large=\""
+    + alias2(alias3(((stack1 = (depth0 != null ? depth0._height : depth0)) != null ? stack1._large : stack1), depth0))
+    + "\" data-height-medium=\""
+    + alias2(alias3(((stack1 = (depth0 != null ? depth0._height : depth0)) != null ? stack1._medium : stack1), depth0))
+    + "\" data-height-small=\""
+    + alias2(alias3(((stack1 = (depth0 != null ? depth0._height : depth0)) != null ? stack1._small : stack1), depth0))
+    + "\"\n        data-width-large=\""
+    + alias2(alias3(((stack1 = (depth0 != null ? depth0._width : depth0)) != null ? stack1._large : stack1), depth0))
+    + "\" data-width-medium=\""
+    + alias2(alias3(((stack1 = (depth0 != null ? depth0._width : depth0)) != null ? stack1._medium : stack1), depth0))
+    + "\" data-width-small=\""
+    + alias2(alias3(((stack1 = (depth0 != null ? depth0._width : depth0)) != null ? stack1._small : stack1), depth0))
+    + "\" allowfullscreen webkitallowfullscreen mozallowfullscreen>\n      </iframe>\n    </div>\n  </div>\n</div>\n";
+},"usePartial":true,"useData":true});
+
 this["Handlebars"]["templates"]["text"] = Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1;
 

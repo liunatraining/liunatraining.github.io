@@ -54,9 +54,6 @@
       "_graphic": {
         "ariaRegion": ""
       },
-      "_textinput": {
-        "ariaRegion": "This question requires you to input your answer in the textbox provided. When you have done so, select the submit button below."
-      },
       "_mcq": {
         "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
       },
