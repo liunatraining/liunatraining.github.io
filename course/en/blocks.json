@@ -851,27 +851,27 @@
     "displayTitle": "Question #4",
     "title": "Question #4",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": true
-      },
-      "_scrollTo": "@block +1",
-      "_scrollDuration": 500,
+      "_isEnabled": true,
       "_autoScroll": true,
-      "_isEnabled": true
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
@@ -1021,10 +1021,10 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 30,
-    "_classes": "tertiary",
-    "body": "<p><strong>IMPORTANT</strong></p><p>You will not receive credit for this course unless the form below is completed.</p>",
-    "displayTitle": "Required Registration",
-    "title": "Required Registration",
+    "_classes": "",
+    "body": "<p><strong>IMPORTANT</strong></p><p><strong>To receive credit for this course, you must complete the form below.</strong></p>",
+    "displayTitle": "One More Step - Required Registration",
+    "title": "One More Step - Required Registration",
     "_trickle": {
       "_isEnabled": false,
       "_autoScroll": false,

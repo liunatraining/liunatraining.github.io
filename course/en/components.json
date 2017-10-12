@@ -1540,7 +1540,7 @@
     "_layout": "full",
     "_type": "component",
     "_parentId": "59b1623cf880bbb009922f50",
-    "body": "<p>You have successfully completed this anti-harassment training.</p>",
+    "body": "",
     "displayTitle": "",
     "title": "Registration",
     "_isAvailable": true,
@@ -1550,7 +1550,7 @@
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "instruction": "Please fill out the form below, as proof that you have taken this course.",
+    "instruction": "",
     "_source": "https://docs.google.com/forms/d/e/1FAIpQLSf3jIBmPNrTZRJ2oP8znqZ-bdHAjHDb8WA6iXwPz5MH997yMA/viewform?embedded=true",
     "_scrolling": "auto",
     "_width": {
